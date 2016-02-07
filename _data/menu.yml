@@ -1,0 +1,37 @@
+- title: "Blog"
+  href: "/blog/"
+
+- title: "CV"
+  href: "/cv/"
+
+- title: "Research"
+  href: "/research/"
+  subcategories:
+    - subtitle: "Projects"
+      subhref: "/research/projects/"
+    - subtitle: "Publications"
+      subhref: "/research/publications/"
+    - subtitle: "Talks"
+      subhref: "/research/talks/"
+
+- title: "Self Tutelage"
+  href: "/self-tutelage/"
+  subcategories:
+    - subtitle: "Mathematics For Computer Science"
+      subhref: "/self-tutelage/math-for-cs/"
+    - subtitle: "Linear Algebra"
+      subhref: "/self-tutelage/linear-algebra/"
+    - subtitle: "Probability and Statistics"
+      subhref: "/self-tutelage/prob-and-stats/"
+    - subtitle: "Machine Learning"
+      subhref: "/self-tutelage/ml/"
+    - subtitle: "Natural Language Processing"
+      subhref: "/self-tutelage/nlp/"  
+
+- title: "Miscellany"
+  href: "/miscellany/"
+  subcategories:
+    - subtitle: "Study Material"
+      subhref: "/miscellany/study-material/"
+    - subtitle: "Other"
+      subhref: "/miscellany/other/"
