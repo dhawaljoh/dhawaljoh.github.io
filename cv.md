@@ -4,8 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-I embed a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/30ah9tgxevj1vl9/svm-cv.pdf).
+Please find my latest CV below. 
 
-{% include embedpdf.html code="30ah9tgxevj1vl9/svm-cv.pdf" width=100 height=800 %}
-
-
+<a href="/files/CV_new.pdf" target="_blank">PDF</a>
+Last updated: 2016-02-07

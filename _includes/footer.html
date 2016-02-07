@@ -2,13 +2,14 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <!-- <h2 class="footer-heading">{{ site.title }}</h2> -->
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><b><em>Template by: <a href="http://svmiller.com/" target="_blank">Steven V. Miller</em></b> </li>
+          <!-- <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li> -->
         </ul>
       </div>
 
@@ -20,16 +21,34 @@
           </li>
           {% endif %}
 
+          {% if site.linkedin_username %}
+          <li>
+            {% include icon-linkedin.html username=site.linkedin_username %}
+          </li>
+          {% endif %}
+
+          {% if site.facebook_username %}
+          <li>
+            {% include icon-facebook.html  username=site.facebook_username %}
+          </li>
+          {% endif %}
+
           {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+      
         </ul>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+        <p>
+        Put department address here.
+        <!-- Department of Computer Science </br> -->
+        <!-- University of California, Santa Cruz</br> -->
+        <!-- {{ site.description }} -->
+        </p>
       </div>
     </div>
 
