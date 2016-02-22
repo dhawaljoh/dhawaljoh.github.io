@@ -9,14 +9,19 @@
         <ul class="contact-list">
           <!-- <li>{{ site.title }}</li> -->
           <li><b><em>Template by: <a href="http://svmiller.com/" target="_blank">Steven V. Miller</a></em></b> </li>
-          <li><b><em>Last modified:</em></b> {% last_modified_at %B %d, %Y %}</li>
+          <li><b><em>Last modified: </em></b>{{ page.last_modified_at | date:'%B %d, %Y' %}}</li>
           <!-- <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li> -->
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-          {% if site.github_username %}
+            {% include icon-github.html username=site.github_username %} |
+            {% include icon-linkedin.html username=site.linkedin_username %} |
+            {% include icon-facebook.html  username=site.facebook_username %} |
+            {% include icon-twitter.html username=site.twitter_username %}
+
+<!--           {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
           </li>
@@ -38,7 +43,7 @@
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
-          {% endif %}
+          {% endif %} -->
       
         </ul>
       </div>
