@@ -1,6 +1,9 @@
 - title: "Home"
   href: "/"
 
+- title: "CV"
+  href: "/files/CV_new.pdf"
+
 - title: "Blog"
   href: "/blog/"
 

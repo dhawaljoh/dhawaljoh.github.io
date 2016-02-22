@@ -26,3 +26,6 @@ markdown: kramdown
 # Other Options
 permalink: blog/:year/:month/:title/
 excerpt_separator: "<!--more-->"
+
+gems:
+  - jekyll-last-modified-at
