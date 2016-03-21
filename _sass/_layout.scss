@@ -77,10 +77,11 @@
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 
-   position:absolute;
+   position:fixed;
    bottom:0;
    width:100%;
    height:20px;   /* Height of the footer */
+   background:$grey-color-light;
 }
 
 .footer-heading {
