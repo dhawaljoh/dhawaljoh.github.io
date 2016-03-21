@@ -7,7 +7,7 @@ layout: default
 PhD Student, Computer Science <br>
 University of California, Santa Cruz <br><br>
 <em>Curriculum Vitae: </em><a href="files/CV_new.pdf" target="_blank">PDF</a><br>
-<em>Email: </em><a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+<em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a><br>
 <p><a href="http://doodle.com/dhawaljoh" target="_blank">Meet me!</a> | <a href="http://flask.io/yoUm1" target="_blank">Assign me a task!</a> (please let me know you've added something!)</p>
 
 - - -
