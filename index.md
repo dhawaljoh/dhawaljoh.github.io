@@ -17,8 +17,13 @@ University of California, Santa Cruz <br><br>
 
 <br>
 
-Starting Fall, 2016, I will be joining <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQS</a> at UCSC and will be advised by <a href="https://getoor.soe.ucsc.edu/" target="_blank">Prof. Lise Getoor</a>. <br><br>
-<a href="https://linqs.soe.ucsc.edu/" target="_blank"><img src="images/linqs.png" alt="LINQS" style="width:275px;" align="right"></a>
-I graduated from <em><a class="tosu" href="http://www.manipal.edu" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in July, 2015. While there, I was actively involved with IEEE Student Branch Manipal and served as its Techincal Secretary for the year 2013-14.
+<p align="justify" style="max-width:600px">
+Starting Fall, 2016, I will be joining <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQS</a> at UCSC and will be advised by <a href="https://getoor.soe.ucsc.edu/" target="_blank">Prof. Lise Getoor</a>. <br><br></p>
 
-My interests lie in the intersection of Statistical Relational Learning, Natural Language Processing, and Machine Learning.
+<a href="https://linqs.soe.ucsc.edu/" target="_blank"><img src="images/linqs.png" alt="LINQS" style="width:275px;" align="right"></a>
+
+<p align="justify" style="max-width:600px">
+I graduated from <em><a class="tosu" href="http://www.manipal.edu" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in July, 2015. While there, I was actively involved with IEEE Student Branch Manipal and served as its Techincal Secretary for the year 2013-14.<br><br>
+
+My interests lie at the intersection of Statistical Relational Learning, Natural Language Processing, and Machine Learning.
+</p>
