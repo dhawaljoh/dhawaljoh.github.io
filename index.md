@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include image.html url="/images/me2.jpeg" caption="Dhawal Joharapurkar" width=275 align="right" %}
+{% include image.html url="/images/me2.jpeg" caption="Dhawal Joharapurkar" width=275 align="left" %}
 # Dhawal Joharapurkar
 PhD Student, Computer Science <br>
 University of California, Santa Cruz <br><br>
