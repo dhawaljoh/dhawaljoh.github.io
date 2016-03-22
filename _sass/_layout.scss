@@ -80,8 +80,11 @@
    position:fixed;
    bottom:0;
    width:100%;
+   padding-top:20px;
+   padding-bottom:25px;
    height:20px;   /* Height of the footer */
    background:$grey-color-light;
+   line-height:5%;
 }
 
 .footer-heading {
@@ -151,6 +154,8 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    padding-top:90px;
+    padding-bottom:80px;
 }
 
 .page-heading {
