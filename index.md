@@ -9,7 +9,7 @@ layout: default
 # Dhawal Joharapurkar
 PhD Student, Computer Science <br>
 University of California, Santa Cruz <br><br>
-<em>Curriculum Vitae: </em><a href="files/CV_new.pdf" target="_blank">PDF</a>  <small>(Jan, 2016)</small> <br>
+<em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(Mar, 2016)</small> <br>
 <em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a><br>
 <p><a href="http://doodle.com/dhawaljoh" target="_blank">Meet me!</a> | <a href="http://flask.io/yoUm1" target="_blank">Assign me a task!</a> (please let me know you've added something!)</p>
 <a href="http://www.ucsc.edu/" target="_blank"><img src="images/ucsc.png" alt="UCSC" style="width:275px;" align="right"></a>
@@ -18,7 +18,7 @@ University of California, Santa Cruz <br><br>
 <br>
 
 <p align="justify" style="max-width:600px">
-Starting Fall, 2016, I will be joining <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQS</a> at UCSC and will be advised by <a href="https://getoor.soe.ucsc.edu/" target="_blank">Prof. Lise Getoor</a>. <br><br></p>
+Starting Fall, 2016, I will be joining <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQS</a> at UCSC and will be advised by <a href="https://getoor.soe.ucsc.edu/" target="_blank">Prof. Lise Getoor</a>. <br></p>
 
 <a href="https://linqs.soe.ucsc.edu/" target="_blank"><img src="images/linqs.png" alt="LINQS" style="width:275px;" align="right"></a>
 
