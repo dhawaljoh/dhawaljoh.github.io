@@ -3,11 +3,16 @@ layout: page
 title: Projects
 permalink: /research/projects/
 ---
--   [Craigslist Post Classifier: Identify the Category](https://github.com/dhawaljoh/craigslist_category_classification): Classify an advertisement into one of 16 categories based on the advert's text
 
--   [Peptide Status Detection](https://github.com/dhawaljoh/PeptideStatusDetection): Detecting Fibrous regions in Proteins using the UniProtKB/Swiss-Prot data
+-	**[Temporal Scoping of Relational Facts in a Knowledge Base](/files/openday2015.pdf)**: [Work done at SERC, IISc with <em><a class="tosu" href="http://www.talukdar.net/" target="_blank">Prof. Partha Talukdar</a></em>] <br>
+To identify if a relation existed between two entities in a sentence, we constructed a model consisting of n-grams which provided clues for the relation. These n-grams, along with features from Entity Linking were used to train a GBDT to identify relations. Stanford’s SUTime was used to extract temporal information present and then normalized. Triggers chosen manually from the language model were used to indicate the start or end of relationships. We devised an algorithm to update the start/end times iteratively as more temporal information was found through new sentences.
 
--   [Automatic Driver Behaviour Profiling](https://github.com/dhawaljoh/IIT-Kharagpur): Understand the driving patterns of various drivers using GPS data of trucks across India over 15 years
+-   **[Craigslist Post Classifier: Identify the Category](https://github.com/dhawaljoh/craigslist_category_classification)**: Used bag of words model, tf-idf and SVM to classify posts on Craigslist into sections based on the product description.
+The open dataset was available on HackerRank. **Accuracy**: 81%
+
+-   **[Peptide Status Detection](https://github.com/dhawaljoh/PeptideStatusDetection)**: Worked with Prof. Smitha Nair on detecting Fibrous regions in proteins using the UniProtKB/Swiss-Prot data. Used Support Vector Machines and Bee Colony Optimization for PCA.
+
+-   **[Automatic Driver Behaviour Profiling](https://github.com/dhawaljoh/IIT-Kharagpur)**: Understand the driving patterns of various drivers using GPS data of trucks across India over 15 years. Worked with [Prof. Sudeshna Sarkar](http://www.facweb.iitkgp.ernet.in/~sudeshna/) at the Department of Computer Science and Engineering, Indian Institute of Technology, Kharagpur on Automatic Profiling of Driver Behaviour on GPS dataset provided by MHRD. Some preliminary data munging and visualizations were done to understand the spread of data. Detection of hotspots(stoppage areas, resting places) using DBSCAN algorithm and road segmentation based on their speed profiles was also done. I also modified the "simplekml" module to plot the GPS points on Google Maps.
 
 
--   [Data Science London + Scikit-learn](https://github.com/dhawaljoh/kaggle--data-science-london): Kaggle competition to explore sklearn
+-   **[Data Science London + Scikit-learn](https://github.com/dhawaljoh/kaggle--data-science-london)**: Kaggle competition to explore sklearn.
