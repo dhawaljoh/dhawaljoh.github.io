@@ -7,7 +7,7 @@ layout: default
 <a href="/images/me2.jpeg" target="_blank"><img src="images/me2.jpeg" alt="Dhawal Joharapurkar" style="width:275px;" align="right"></a>
 
 # Dhawal Joharapurkar
-PhD Student, Computer Science <br>
+Ph.D. Student, Computer Science <br>
 University of California, Santa Cruz <br><br>
 <em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(Mar, 2016)</small> <br>
 <em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a><br>
