@@ -51,7 +51,7 @@ My profile did improve a bit - over the course of Spring, 2015, my GPA increased
 
 I collected my code from all the projects and organized it, put it on GitHub, put it into my SOP. My SOP was weaved into a story of my progress through undergrad and trying to convince the admissions committee that I was ready for grad school. None of the "We bought our first computer when I was aged 6..." nonsense. Let's break it down.
 
-I had my SOP chopped up into three sections:
+I had my SOP chopped up into three sections, so, here's some advice:
 
 1. Introduction
 	1. One line introducing your field of study. Try to be creative here and by that I don't mean use fancy words. Try to concisely state a fact or two from your field of study and why you're motivated to do research in it. Makes a better opening statement than "I started learning Python before my mother tongue", right?
@@ -67,18 +67,27 @@ I had my SOP chopped up into three sections:
 	3. If you have worked on something that you think is very relevant to the advisors' research, quote it here. Doing so, you're making sure that the advisor has read the most relevant piece of your application.
 	4. Be nice, sign off by thanking the committee for spending time reading your application.
 
+I think that rounds up to a good looking SOP if done right. It'll be a no-nonsense piece, something refreshing for the committee to read. Obviously, feel free to take as much or as little of those points. They worked for me, they may or may not work for you.
+
+A few other ideas to score some brownie points:
+
+1. Have an academic/porfolio website. In this day and age, there are many platforms that can help you get set up in a matter of a couple of hours. If you don't mind a xyz.github.io URL, you can even host your website for free using GitHub.
+2. Make your CV, SOP and any other document that you need to write in LaTeX. It definitely is worth your while to learn it if you plan to be in academia.
+3. Any emails to the staff, be corteous and as helpful (stating your application number, exact problem explained concisely, etc) as you can be. Do **NOT** rush them or send them mails asking when the result will be out. Such requests are annoying and you'll never get a reply.
+4. It is also a good idea to talk to students of the potential advisor. You can be slightly informal with them and get a lot of information about the university/department/location and mainly the professor.
+
+
 That wraps up the "applying" part of the process, which is crucial, but not the most crucial piece of your application. Funnily enough, the part that I consider the most crucial isn't even on your application. If you haven't guessed already, it is mailing the professor.
 
 [This](http://matt.might.net/articles/how-to-email/){:target="_blank"} is the bible of emailing professors. Patience is key while emailing prospective advisors.
 
 > The professors time is a million times more important than yours. So, **DO NOT** waste their time.
 
-I had emailed my prospective advisors thrice. The first one, sometime in July/August, asking if they're taking on students for the following Fall. Yes, 4-5 months before you even apply. Most students are highly impatient, and most professors will not reply within a couple of weeks even. You need as big a buffer as you can manage. So, emailing them in July means you need to have zeroed in on them sometime in April/May which gives you a couple of months to read their work and decide if you want to apply to work with them or not. Coming back to the email, it should be short with a useful subject line. (be very aware of spam filters and make sure your mail is not tossed before it's even opened). In this email, you introduce yourself, state your interest in working with them and then pop the question. If you do get a reply, that's a good sign. The second email, I sent when I finished applying, letting them know in a "quick update" email. The third, when my application was complete after all my recommendations had been submitted. This one should contain your application number so that the professor can easily locate your application and line or two telling them that you can send across anything specific they'd want to look at. Obviously, in every email, make sure that you have no typos and your grammar is on point.
+I had emailed my prospective advisors thrice. The first one, sometime in July/August, asking if they're taking on students for the following Fall. Yes, 4-5 months before you even apply. Most students are highly impatient, and most professors will not reply within a couple of weeks even. You need as big a buffer as you can manage. So, emailing them in July means you need to have zeroed in on them sometime in April/May which gives you a couple of months to read their work and decide if you want to apply to work with them or not. Coming back to the email, it should be short with a useful subject line (be very aware of spam filters and make sure your mail is not tossed before it's even opened). In this email, you introduce yourself, state your interest in working with them and then pop the question. If you do get a reply, that's a good sign. The second email, I sent when I finished applying, letting them know in a "quick update" email. The third, when my application was complete after all my recommendations had been submitted. This one should contain your application number so that the professor can easily locate your application and line or two telling them that you can send across anything specific they'd want to look at. Obviously, in every email, make sure that you have no typos and your grammar is on point.
 
 
 Take [this](http://emeryberger.com/admission-notes/){:target="_blank"} link very seriously. It contains very specific, concise, and highly useful information. Moreover, it is information you can trust coming from Prof. Emery Berger at UMass, Amherst.
 
-
-Good luck to you! Hope you land your dream advisor!
-
 Actually, the video that I shared above is more relevant once you have your admit and are about to start your Ph.D., but, oh well!
+
+`P.S.: No, I will not share any of the material I used in my application. Applications are meant to be done yourself and it gives you a chance to pitch yourself to the university. There are a lot of upsides if you do this task the right way. So, good luck to you! I hope you land your dream advisor!`
