@@ -32,7 +32,7 @@ Then, BAM. 7 rejects and I was left reeling. It was a terrible feeling.
 The Missing Part - The part that no one talks about
 ---
 
-Sometime in April, 2015 when I was down and out about the rejects, I was talking to a good friend. Let's call him Akshay, because that's his name. He didn't try to console me or advise me, all he did was linked me to this video.
+Sometime in April, 2015 when I was down and out about the rejects, I was talking to a good friend. Let's call him Akshay, because that's his name. He didn't try to console me or advise me, all he did was link me to this video.
 
 <center> <iframe src="https://player.vimeo.com/video/87448006?title=0&byline=0&portrait=0&badge=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 <center><a href="https://vimeo.com/87448006">The Long Game Part 2: the missing chapter</a> from <a href="https://vimeo.com/delvetv">Delve</a> on <a href="https://vimeo.com">Vimeo</a>.</center>
