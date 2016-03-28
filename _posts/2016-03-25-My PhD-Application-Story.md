@@ -8,13 +8,13 @@ author: Dhawal Joharapurkar
 
 Ah, the clichéd "application story". Add to the pile, here goes:
 
-My PhD story, as I like to think of it, is made up of two parts - **the fall and then the rise** (if you don't realize how many clichés there are going to be in this one, I apologize in advance).
+My PhD story, as I like to think of it, is made up of two parts - **the fall and the rise** (if you don't realize how many clichés there are going to be in this one, I apologize in advance).
 
 
 Part 1 - The Fall
 ---
 
-I graduated from Manipal Institute of Technology, in 2015. So, I spent most of Fall 2014 applying to colleges. These are the places I applied to for MS in CS:
+I graduated from Manipal Institute of Technology, Manipal in 2015. So, I spent most of Fall 2014 applying to colleges. These are the places I applied to for an MS in CS:
 
 1. Carnegie Mellon University (MS in ML) 
 2. Ohio State University
@@ -37,7 +37,7 @@ Sometime in April, 2015 when I was down and out about the rejects, I was talking
 <center> <iframe src="https://player.vimeo.com/video/87448006?title=0&byline=0&portrait=0&badge=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></center>
 <center><a href="https://vimeo.com/87448006">The Long Game Part 2: the missing chapter</a> from <a href="https://vimeo.com/delvetv">Delve</a> on <a href="https://vimeo.com">Vimeo</a>.</center>
 
-In a mere 6 minutes, this video gave me so much to introspect. Thank you, Akshay.
+In a mere 6 minutes, this video gave me so much to ponder over. Thank you, Akshay.
 
 I did a lot of thinking and realized that I wanted to do a PhD. Maybe my profile wasn't strong enough for a Master's application. Heck, if it isn't, it surely is nowhere close to helping me get admitted into PhD programs. I realized the best thing I can do to offset my GPA is to do internships at reputed places. Thus began the next part.
 
@@ -47,9 +47,9 @@ Part 2 - The Rise
 
 I realized very early, thanks to wonderful mentors I found in seniors from school and college, that PhD applications are **not** at all like MS applications. I needed to show demonstrated ability of research and take a more structured approach to applying.
 
-My profile did improve a bit - over the course of Spring, 2015, my GPA increased a fair bit, I completed my internship at IISc, IIIT Hyderabad and got started at Xerox Research Centre. I managed to snag one publication. But, that alone wouldn't be enough to prove my worth. I knew I needed a killer SOP that would drive home the point that I'm fit for research.
+My profile did improve a bit - over the course of Spring, 2015, my GPA increased a fair amount, I completed internships at IISc, IIIT Hyderabad and got started at Xerox Research Centre India. I even managed to snag one publication. But that alone wouldn't be enough to prove my worth. I knew I needed a killer SOP that would drive home the point that I'm fit for research.
 
-I collected my code from all the projects and organized it, put it on GitHub, put it into my SOP. My SOP was weaved into a story of my progress through undergrad and trying to convince the admissions committee that I was ready for grad school. None of the "We bought our first computer when I was aged 6..." nonsense. Let's break it down.
+I collected code from all my projects, organized it, put it on GitHub, and linked it on my SOP. My SOP was weaved into a story of my progress through undergrad while trying to convince the admissions committee that I was ready for grad school. None of the "We bought our first computer when I was aged 6..." nonsense. Let's break it down.
 
 I had my SOP chopped up into three sections, so, here's some advice:
 
