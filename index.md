@@ -18,12 +18,12 @@ University of California, Santa Cruz <br><br>
 <br>
 
 <p align="justify" style="max-width:600px">
-Starting Fall, 2016, I will be joining <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQS</a> at UCSC and will be advised by <a href="https://getoor.soe.ucsc.edu/" target="_blank">Prof. Lise Getoor</a>. <br></p>
+Starting Fall, 2016, I will be joining <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQS</a> at <em><a class="tosu" href="http://www.ucsc.edu/" target="_blank">UC Santa Cruz</a></em> where I will be advised by <a href="https://getoor.soe.ucsc.edu/" target="_blank">Prof. Lise Getoor</a>. <br></p>
 
 <a href="https://linqs.soe.ucsc.edu/" target="_blank"><img src="images/linqs.png" alt="LINQS" style="width:275px;" align="right"></a>
 
 <p align="justify" style="max-width:600px">
-I interned at <em><a class="tosu" href="http://xrci.xerox.com/" target="_blank">Xerox Research Centre, India</a></em> with <a href="https://sites.google.com/site/vaibhavrajan/" target="_blank">Dr. Vaibhav Rajan</a> on "Analysis of clinical notes of ICU patients using Topic Models" during June, 2015 - January, 2016.<br><br>
+I interned at <em><a class="tosu" href="http://xrci.xerox.com/" target="_blank">Xerox Research Centre, India</a></em> with <a href="https://sites.google.com/site/vaibhavrajan/" target="_blank">Dr. Vaibhav Rajan</a> on "Analysis of clinical notes of ICU patients using Topic Models" between June, 2015 - January, 2016.<br><br>
 
 I graduated from <em><a class="tosu" href="http://www.manipal.edu" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in July, 2015. There, I was actively involved with IEEE Student Branch Manipal and served as its Techincal Secretary during 2013-14.<br><br>
 

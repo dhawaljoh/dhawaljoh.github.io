@@ -200,6 +200,7 @@ h1 /* .post-title */ {
     line-height: 1;
 		font-family: 'Titillium Web', sans-serif;
 		color: #522d80;
+        color: #b00000;
 
     @include media-query($on-laptop) {
 /*        font-size: 36px; */
