@@ -29,3 +29,35 @@ I graduated from <em><a class="tosu" href="http://www.manipal.edu" target="_blan
 
 My interests lie at the intersection of Statistical Relational Learning, Natural Language Processing, and Machine Learning.
 </p>
+
+
+<center> <em><a class="tosu"> Scroll down for news! </a></em></center>
+
+<br>
+<br>
+
+News
+===
+
+| 06/29/2016 ||||| News 1|
+| 06/29/2016 ||||| News 2|
+| 06/29/2016 ||||| News 3|
+| 06/29/2016 ||||| News 4|
+| 06/29/2016 ||||| News 5|
+
+<!-- <div style="height:300px;width:900px; ;border:1px solid #ccc;overflow:auto;">
+<p>06/29/2016 Did things!</p>
+
+*[test](/files/CV_new.pdf)*
+
+<p>As you can see, once there's enough text in this box, the box will grow scroll bars... that's why we call it a scroll box! You could also place an image into the scroll box.</p>
+
+<p>As you can see, once there's enough text in this box, the box will grow scroll bars... that's why we call it a scroll box! You could also place an image into the scroll box.</p>
+
+<p>As you can see, once there's enough text in this box, the box will grow scroll bars... that's why we call it a scroll box! You could also place an image into the scroll box.</p>
+
+<p>As you can see, once there's enough text in this box, the box will grow scroll bars... that's why we call it a scroll box! You could also place an image into the scroll box.</p>
+
+<p>As you can see, once there's enough text in this box, the box will grow scroll bars... that's why we call it a scroll box! You could also place an image into the scroll box.</p>
+
+</div> -->
