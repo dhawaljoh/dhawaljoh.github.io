@@ -36,5 +36,7 @@
   subcategories:
     - subtitle: "Study Material"
       subhref: "/miscellany/study-material/"
+    - subtitle: "Research Supplements"
+      subhref: "/miscellany/research-supplements"
     - subtitle: "Other"
       subhref: "/miscellany/other/"
