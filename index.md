@@ -33,9 +33,6 @@ My interests lie at the intersection of Statistical Relational Learning, Natural
 
 <center> <em><a class="tosu"> Scroll down for news! </a></em></center>
 
-<br>
-<br>
-
 News
 ===
 
