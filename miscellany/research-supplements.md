@@ -7,6 +7,7 @@ permalink: /miscellany/research-supplements/
 How to do Research
 ===
 1. [The Ph.D. Grind](http://www.pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf){:target="_blank"} - One of the most cited Ph.D. experience resource.
+2. [The Ph.D. Experience](http://cseweb.ucsd.edu/~mihir/phd.html) - Another good read!
 2. [How to do Research At the MIT AI Lab](https://people.cs.umass.edu/~emery/misc/how-to.pdf){:target="_blank"} - Advice from the 1980s which is still valid today!
 3. [Advice on writing well for NLP](http://www.umiacs.umd.edu/~resnik/writing_advice.html) - A few principles worth noting while writing.
 
