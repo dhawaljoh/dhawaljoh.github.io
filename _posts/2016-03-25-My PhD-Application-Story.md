@@ -6,7 +6,7 @@ author: Dhawal Joharapurkar
 <!-- published: false -->
 ---
 
-Ah, the clichéd "application story". Add to the pile, here goes:
+Ah, the clichéd "application story". Adding to the pile, here goes:
 
 My PhD story, as I like to think of it, is made up of two parts - **the fall and the rise** (if you don't realize how many clichés there are going to be in this one, I apologize in advance).
 
