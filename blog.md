@@ -6,6 +6,7 @@ permalink: /blog/
 
 A collection of some of my thoughts that I've penned!
 
+
 <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
@@ -19,3 +20,14 @@ A collection of some of my thoughts that I've penned!
   </li>
 {% endfor %}
 </ul>
+
+
+<br><br><br>
+
+ToDos/Ideas:
+=====
+
+1. Complete Bessel's correction
+2. Who do cross validation before doing feature selection in wide data sets
+3. <del>PhD application story</del>
+4. BayesPy
