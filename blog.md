@@ -28,6 +28,6 @@ ToDos/Ideas:
 =====
 
 1. Complete Bessel's correction
-2. Who do cross validation before doing feature selection in wide data sets
+2. Why do cross validation before doing feature selection in wide data sets
 3. <del>PhD application story</del>
 4. BayesPy
