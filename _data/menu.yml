@@ -17,20 +17,6 @@
     - subtitle: "Talks"
       subhref: "/research/talks/"
 
-- title: "Self Tutelage"
-  href: "/self-tutelage/"
-  subcategories:
-    - subtitle: "Mathematics For Computer Science"
-      subhref: "/self-tutelage/math-for-cs/"
-    - subtitle: "Linear Algebra"
-      subhref: "/self-tutelage/linear-algebra/"
-    - subtitle: "Probability and Statistics"
-      subhref: "/self-tutelage/prob-and-stats/"
-    - subtitle: "Machine Learning"
-      subhref: "/self-tutelage/ml/"
-    - subtitle: "Natural Language Processing"
-      subhref: "/self-tutelage/nlp/"  
-
 - title: "Miscellany"
   href: "/miscellany/"
   subcategories:
