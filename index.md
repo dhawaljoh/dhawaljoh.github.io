@@ -17,6 +17,7 @@ University of California, Santa Cruz <br><br>
 
 <br>
 
+
 <p align="justify" style="max-width:600px">
 Starting Fall, 2016, I will be joining <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQS</a> at <em><a class="tosu" href="http://www.ucsc.edu/" target="_blank">UC Santa Cruz</a></em> where I will be advised by <a href="https://getoor.soe.ucsc.edu/" target="_blank">Prof. Lise Getoor</a>. <br></p>
 
