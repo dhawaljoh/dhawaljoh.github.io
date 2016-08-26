@@ -26,7 +26,7 @@ Starting Fall, 2016, I will be joining <a href="https://linqs.soe.ucsc.edu/" tar
 <p align="justify" style="max-width:600px">
 I interned at <em><a class="tosu" href="http://xrci.xerox.com/" target="_blank">Xerox Research Centre, India</a></em> with <a href="https://sites.google.com/site/vaibhavrajan/" target="_blank">Dr. Vaibhav Rajan</a> on "Analysis of clinical notes of ICU patients using Topic Models" between June, 2015 - January, 2016.<br><br>
 
-I graduated from <em><a class="tosu" href="http://www.manipal.edu" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in July, 2015. There, I was actively involved with IEEE Student Branch Manipal and served as its Techincal Secretary during 2013-14.<br><br>
+I graduated from <em><a class="tosu" href="http://www.manipal.edu" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in May, 2015. While there, I was actively involved with the IEEE Student Branch, Manipal and served as its Techincal Secretary during 2013-14.<br><br>
 
 My interests lie at the intersection of Statistical Relational Learning, Natural Language Processing, and Machine Learning.
 </p>
@@ -37,15 +37,14 @@ My interests lie at the intersection of Statistical Relational Learning, Natural
 News
 ===
 
-<!-- | 06/29/2016 ||||| News 1|
+| 06/29/2016 ||||| News 1|
 | 06/29/2016 ||||| News 2|
 | 06/29/2016 ||||| News 3|
 | 06/29/2016 ||||| News 4|
-| 06/29/2016 ||||| News 5| -->
+| 06/29/2016 ||||| News 5|
 
-<div style="height:300px;width:900px; padding-left: 10px ;border:0.1px solid #ccc;overflow:auto;">
-<ul>06/29/2016 &emsp; &emsp; News 1</ul>
-<ul>06/29/2016 &emsp; &emsp; News 2</ul>
-<ul>06/29/2016 &emsp; &emsp; News 3</ul>
-<ul>06/29/2016 &emsp; &emsp; News 4</ul>
-</div>
+<!-- 
+<div style="height:300px;width:900px;border:0.1px solid #ccc;overflow:auto;">
+<ul>06/29/2016 &emsp; News 1</ul>
+
+</div> -->
