@@ -34,18 +34,85 @@ My interests lie at the intersection of Statistical Relational Learning, Natural
 
 <center> <em><a class="tosu"> Scroll down for news! </a></em></center>
 
-News
-===
+<style>
+ol {
+    counter-reset:li;
+    margin-left:0;
+    padding-left:0;
+}
 
-<!-- | 06/29/2016 ||||| News 1|
-| 06/29/2016 ||||| News 2|
-| 06/29/2016 ||||| News 3|
-| 06/29/2016 ||||| News 4|
-| 06/29/2016 ||||| News 5| -->
+ol > li {
+    position:relative;
+    margin:0 0 6px 2em;
+    list-style:none;
+}
 
-<div style="height:300px;width:900px; padding-left: 10px ;border:0.1px solid #ccc;overflow:auto;">
-<ul>06/29/2016 &emsp; &emsp; News 1</ul>
-<ul>06/29/2016 &emsp; &emsp; News 2</ul>
-<ul>06/29/2016 &emsp; &emsp; News 3</ul>
-<ul>06/29/2016 &emsp; &emsp; News 4</ul>
+ol > li:before {
+    content:counter(li);
+    counter-increment:li;
+    /* Position and style the number */
+    position:absolute;
+    top:0;
+    left:-2em;
+    width:2em;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+
+    margin-right:20px;
+    padding:12px;
+    color:#e53935;
+    background:#e0e0e0;
+    font-weight:bold;
+    text-align:center;
+
+}
+
+.artist {
+display: block;}
+
+.title {
+display: block;}
+
+</style>
+<br>
+<div style="height:300px;width:900px; ;border:1px solid #ccc;overflow:auto;">
+  <ol class="list">
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+    <li style="width:100%;">
+      <span class="artist">Date</span>
+      <span class="title">Title</span></li>
+  </ol>
 </div>
