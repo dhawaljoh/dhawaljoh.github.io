@@ -4,9 +4,9 @@ layout: default
 
 <!-- {% include image.html url="/images/me2.jpeg" caption="Dhawal Joharapurkar" width=275 align="right" %} -->
 
-<a href="/images/me2.jpeg" target="_blank"><img src="images/me2.jpeg" alt="Dhawal Joharapurkar" style="width:275px;" align="right"></a>
 
 # Dhawal Joharapurkar
+<a href="/images/me2.jpeg" target="_blank"><img src="images/me2.jpeg" alt="Dhawal Joharapurkar" style="width:275px;" align="right"></a>
 Ph.D. Student, Computer Science <br>
 University of California, Santa Cruz <br><br>
 
@@ -25,7 +25,7 @@ Currently, I am a member of <a href="https://linqs.soe.ucsc.edu/" target="_blank
 
 <a href="https://linqs.soe.ucsc.edu/" target="_blank"><img src="images/linqs.png" alt="LINQS" style="width:275px;" align="right"></a>
 
-
+<p>
 I graduated from <em><a class="tosu" href="http://www.manipal.edu" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in May, 2015. While there, I was actively involved with the IEEE Student Branch, Manipal and served as its Techincal Secretary during 2013-14.<br><br>
 
 My interests lie at the intersection of Statistical Relational Learning, Natural Language Processing, and Machine Learning.
