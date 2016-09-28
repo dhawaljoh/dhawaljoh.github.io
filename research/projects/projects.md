@@ -4,6 +4,9 @@ title: Projects
 permalink: /research/projects/
 ---
 
+-	Analysis of clinical notes of ICU patients using Topic Models: [Work done at XRCI, IISc with <em><a class="tosu" href="https://sites.google.com/site/vaibhavrajan/" target="_blank">Dr. Vaibhav Rajan</a></em>] <br>
+Worked on predictive healthcare using unstructured nursing notes by looking at temporal evolutions of topic proportions generated via Topic Modelling.
+
 -	**[Temporal Scoping of Relational Facts in a Knowledge Base](/files/openday2015.pdf)**: [Work done at SERC, IISc with <em><a class="tosu" href="http://www.talukdar.net/" target="_blank">Prof. Partha Talukdar</a></em>] <br>
 To identify if a relation existed between two entities in a sentence, we constructed a model consisting of n-grams which provided clues for the relation. These n-grams, along with features from Entity Linking were used to train a GBDT to identify relations. Stanford’s SUTime was used to extract temporal information present and then normalized. Triggers chosen manually from the language model were used to indicate the start or end of relationships. We devised an algorithm to update the start/end times iteratively as more temporal information was found through new sentences.
 
