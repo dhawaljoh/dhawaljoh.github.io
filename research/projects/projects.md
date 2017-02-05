@@ -4,7 +4,7 @@ title: Projects
 permalink: /research/projects/
 ---
 
--	Analysis of clinical notes of ICU patients using Topic Models: [Work done at XRCI, IISc with <em><a class="tosu" href="https://sites.google.com/site/vaibhavrajan/" target="_blank">Dr. Vaibhav Rajan</a></em>] <br>
+-	**Analysis of clinical notes of ICU patients using Topic Models**: [Work done at XRCI, IISc with <em><a class="tosu" href="https://sites.google.com/site/vaibhavrajan/" target="_blank">Dr. Vaibhav Rajan</a></em>] <br>
 Worked on predictive healthcare using unstructured nursing notes by looking at temporal evolutions of topic proportions generated via Topic Modelling.
 
 -	**[Temporal Scoping of Relational Facts in a Knowledge Base](/files/openday2015.pdf)**: [Work done at SERC, IISc with <em><a class="tosu" href="http://www.talukdar.net/" target="_blank">Prof. Partha Talukdar</a></em>] <br>
