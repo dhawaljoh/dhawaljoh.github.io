@@ -41,7 +41,7 @@ My research focuses on mining idelogies and other latent variables in online for
 </tr>
 <tr>
 <td><b>Nov, 16'</b></td>
-<td>TAing <a href="https://classes.soe.ucsc.edu/cmps140/Winter17/" target="_blank">CMPS 140</td> in Winter, 17
+<td>TAing <a href="https://classes.soe.ucsc.edu/cmps140/Winter17/" target="_blank">CMPS 140</a></td> in Winter, 17
 </tr>
 <tr>
 <td><b>Feb, 16'</b></td>
