@@ -34,14 +34,21 @@ My research focuses on mining idelogies and other latent variables in online for
 
 ## News
 
-Nov, 2016|| Will be TAing [CMPS140](https://courses.soe.ucsc.edu/courses/cmps140){:target="_blank"} in Winter 2017
-Feb, 2016|| Got admitted to UC Santa Cruz as a PhD student with Prof. Getoor as my advisor
-Jun, 2015|| Will be joining Xerox Research Centre India as a research intern
-
-
-
-<!-- 
-<div style="height:300px;width:900px;border:0.1px solid #ccc;overflow:auto;">
-<ul>06/29/2016 &emsp; News 1</ul>
-
-</div> -->
+<table style="white-space: nowrap;">
+<tr>
+<td width="75"><b>Feb, 17'</b></td>
+<td>Attending <a href="https://www.aaai.org/Conferences/AAAI/aaai17.php" target="_b">AAAI, 2017</a></td>
+</tr>
+<tr>
+<td><b>Nov, 16'</b></td>
+<td>TAing <a href="https://classes.soe.ucsc.edu/cmps140/Winter17/" target="_blank">CMPS 140</td> in Winter, 17
+</tr>
+<tr>
+<td><b>Feb, 16'</b></td>
+<td>Attending UC Santa Cruz starting Fall, 16</td>
+</tr>
+<tr>
+<td><b>Jun, 16'</b></td>
+<td>Will be joining Xerox Research Centre India as a research intern</td>
+</tr>
+</table>
