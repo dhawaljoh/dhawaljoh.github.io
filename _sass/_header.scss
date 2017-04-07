@@ -4,7 +4,7 @@
 .site-header {
     border-top: 0px solid $grey-color-dark;
     border-bottom: 4px solid $clemson-purple;
-    min-height: 56px;
+    min-height: 36px;
     background: $clemson-orange;
     // Positioning context for the mobile navigation icon
     position: fixed;
@@ -33,7 +33,8 @@
 }
 
 .site-header .wrapper {
-    padding-top: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     position: relative;
 }
 
