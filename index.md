@@ -9,7 +9,7 @@ layout: default
 Ph.D. Student, Computer Science <br>
 University of California, Santa Cruz <br>
 
-<em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(Oct, 2016)</small> <br>
+<em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(April, 2017)</small> <br>
 <em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a> | <a href="mailto:dmjan21@gmail.com">dmjan21@gmail.com</a> <br>
 <em>Office: </em>Engineering 2, 485<br>
 <!-- <p><a href="http://doodle.com/dhawaljoh" target="_blank">Meet me!</a> | <a href="http://flask.io/yoUm1" target="_blank">Assign me a task!</a> (please let me know you've added something!)</p> -->
@@ -48,7 +48,7 @@ My research focuses on mining idelogies and other latent variables in online for
 <td>Attending UC Santa Cruz starting Fall, 16</td>
 </tr>
 <tr>
-<td><b>Jun, 15'</b></td>
-<td>Will be joining Xerox Research Centre India as a research intern</td>
+<td><b>Older</b></td>
+<td><a href='news-archive' target="_blank">Archive</a></td>
 </tr>
 </table>
