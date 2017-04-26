@@ -26,4 +26,3 @@ Tools for research
 3. [RefME](https://www.refme.com/){:target="_blank"} - Free reference generator!
 4. [puush](http://puush.me/){:target="_blank"} - Instead of {Screenshot, upload, generate link to image}, just screenshot.
 5. [Overleaf](https://www.overleaf.com/dash){:target="_blank"} - Online collaborative writing and publishing system. LaTeX on the cloud really.
-6. [Hackpad](https://hackpad.com/){:target="_blank"} - Cloud based notepad on steroids!
