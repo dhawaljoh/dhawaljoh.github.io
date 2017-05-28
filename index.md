@@ -9,7 +9,7 @@ layout: default
 Ph.D. Student, Computer Science <br>
 University of California, Santa Cruz <br>
 
-<em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(April, 2017)</small> <br>
+<em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(June, 2017)</small> <br>
 <em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a> | <a href="mailto:dmjan21@gmail.com">dmjan21@gmail.com</a> <br>
 <em>Office: </em>Engineering 2, 485<br>
 <!-- <p><a href="http://doodle.com/dhawaljoh" target="_blank">Meet me!</a> | <a href="http://flask.io/yoUm1" target="_blank">Assign me a task!</a> (please let me know you've added something!)</p> -->
@@ -28,7 +28,7 @@ Currently, I'm being advised by <a href="https://getoor.soe.ucsc.edu/" target="_
 
 ## Research Interests
 <p align="justify" style="max-width:600px">
-My research focuses on mining idelogies and other latent variables in online forums to predict stance. More broadly, my interests lie at the intersection of Statistical Relational Learning, Natural Language Processing, and Machine Learning. Find more about the work I've done on my  <a href="/research/" target="_blank">research page</a>.
+My research focuses on mining relationships between events and temporal expressions from raw text data. More broadly, my interests lie at the intersection of Statistical Relational Learning, Natural Language Processing, and Machine Learning. Find more about the work I've done on my  <a href="/research/" target="_blank">research page</a>.
 </p>
 <!-- <center> <em><a class="tosu"> Scroll down for news! </a></em></center> -->
 
