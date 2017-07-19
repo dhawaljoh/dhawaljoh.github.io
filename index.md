@@ -36,8 +36,8 @@ My research focuses on mining relationships between events and temporal expressi
 
 <table style="white-space: nowrap;">
 	<tr>
-	<td width="75"><b>June, 17'</b></td>
-	<td>Interning at <a href="http://www.chobaniangroup.com/" target="_blank">Chobanian Group</a> for Summer, 2017</td>
+	<td width="75"><b>Jun, 17'</b></td>
+	<td>Interning at <a href="http://www.chobaniangroup.com/" target="_blank">Chobanian Group</a> during Summer, 2017</td>
 	</tr>
 
 	<tr>
