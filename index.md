@@ -9,8 +9,8 @@ layout: default
 Ph.D. Student, Computer Science <br>
 University of California, Santa Cruz <br>
 
-<em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(August, 2017)</small> <br>
-<em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a> | <a href="mailto:dmjan21@gmail.com">dmjan21@gmail.com</a> <br>
+<em>Curriculum Vitae: </em><a href="/files/CV_new.pdf" target="_blank">PDF</a>  <small>(September, 2017)</small> <br>
+<em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a> | <a href="mailto:dhawal.joharapurkar@gmail.com">dhawal.joharapurkar@gmail.com</a> <br>
 <em>Office: </em>Engineering 2, 485<br>
 <!-- <p><a href="http://doodle.com/dhawaljoh" target="_blank">Meet me!</a> | <a href="http://flask.io/yoUm1" target="_blank">Assign me a task!</a> (please let me know you've added something!)</p> -->
 <hr width="600px">
