@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dhawal Joharapurkar</title>
-    <description>Dhawal Joharapurkar&#39;s academic website.
+    <description>Dhawal Joharapurkar's academic website.
 </description>
-    <link>http://dhawaljoh.github.com/</link>
-    <atom:link href="http://dhawaljoh.github.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Jul 2017 22:57:54 -0700</pubDate>
-    <lastBuildDate>Fri, 28 Jul 2017 22:57:54 -0700</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 09 Mar 2018 00:42:20 -0800</pubDate>
+    <lastBuildDate>Fri, 09 Mar 2018 00:42:20 -0800</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
         <title>My Ph.D. Application Story</title>
@@ -108,14 +108,14 @@
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;P.S.: No, I will not share any of the material I used in my application. Applications are meant to be done yourself and it gives you a chance to pitch yourself to the university. There are a lot of upsides if you do this task the right way. So, good luck to you! I hope you land your dream advisor!&lt;/code&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Mar 2016 08:36:27 -0700</pubDate>
-        <link>http://dhawaljoh.github.com/blog/2016/03/My-PhD-Application-Story/</link>
-        <guid isPermaLink="true">http://dhawaljoh.github.com/blog/2016/03/My-PhD-Application-Story/</guid>
+        <link>http://localhost:4000/blog/2016/03/My-PhD-Application-Story/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/03/My-PhD-Application-Story/</guid>
         
         
       </item>
     
       <item>
-        <title>Divide by (n-1)? What!? (Bessel&#39;s correction)</title>
+        <title>Divide by (n-1)? What!? (Bessel's correction)</title>
         <description>&lt;script src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
 
 &lt;h1 id=&quot;what-is-bessels-correction&quot;&gt;What is “Bessel’s correction”?&lt;/h1&gt;
@@ -136,16 +136,15 @@
 &lt;hr /&gt;
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;under-estimation-of--sigma2-&quot;&gt;Under-estimation of &lt;script type=&quot;math/tex&quot;&gt;\sigma^2&lt;/script&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;under-estimation-of-sigma2&quot;&gt;Under-estimation of &lt;script type=&quot;math/tex&quot;&gt;\sigma^2&lt;/script&gt;&lt;/h2&gt;
 
 &lt;p&gt;Let’s write some code:&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;this is some code
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;this is some code
 this is another line of code
 for i in range(10):
 	print i
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
@@ -178,8 +177,8 @@ Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/li&gt;
 &lt;p&gt;This thing happened!&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Mar 2016 07:36:27 -0800</pubDate>
-        <link>http://dhawaljoh.github.com/blog/2016/03/Divide-by-n-1/</link>
-        <guid isPermaLink="true">http://dhawaljoh.github.com/blog/2016/03/Divide-by-n-1/</guid>
+        <link>http://localhost:4000/blog/2016/03/Divide-by-n-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016/03/Divide-by-n-1/</guid>
         
         
       </item>
