@@ -6,12 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Divide by (n-1)? What!? (Bessel&#39;s correction)</title>
-  <meta name="description" content="What is “Bessel’s correction”?  In statistics, Bessel’s correction, named after Friedrich Bessel, is the use of n − 1 instead of n in the formula for the sam...">
+  <title>News Archive</title>
+  <meta name="description" content="Dhawal Joharapurkar's academic website.
+">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://dhawaljoh.github.com/blog/2016/03/Divide-by-n-1/">
-  <link rel="alternate" type="application/rss+xml" title="Dhawal Joharapurkar" href="http://dhawaljoh.github.com/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/news-archive">
+  <link rel="alternate" type="application/rss+xml" title="Dhawal Joharapurkar" href="http://localhost:4000/feed.xml">
 </head>
 
 
@@ -41,7 +42,7 @@
     </li>
     
     
-     <li><a href="/files/CV_Dhawal.pdf" class="page-link">CV</a>
+     <li><a href="/files/CV_new.pdf" class="page-link">CV</a>
     
     </li>
     
@@ -143,101 +144,54 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Divide by (n-1)? What!? (Bessel's correction)</h1>
-    <p class="post-meta">Posted on March 5, 2016<!--  by  Dhawal Joharapurkar   -->
-<!-- 
-  in
-  
-
- -->
-</p>
+    <h1 class="post-title">News Archive</h1>
   </header>
 
   <article class="post-content">
-    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <table style="white-space: nowrap;">
 
-<h1 id="what-is-bessels-correction">What is “Bessel’s correction”?</h1>
+	<tr>
+	<td width="75"><b>May, 18'</b></td>
+	<td>Interning at <a href="https://www.lamresearch.com/" target="_blank">Lam Research</a> during Summer, 2018</td>
+	</tr>
 
-<blockquote>
-  <p>In statistics, Bessel’s correction, named after Friedrich Bessel, is the use of n − 1 instead of n in the formula for the sample variance and sample standard deviation, where n is the number of observations in a sample. This corrects the bias in the estimation of the population variance, and some (but not all) of the bias in the estimation of the population standard deviation, but often increases the mean squared error in these estimations. <a href="https://en.wikipedia.org/wiki/Bessel%27s_correction" target="_blank">wiki</a></p>
-</blockquote>
+	<tr>
+	<td width="75"><b>Mar, 18'</b></td>
+	<td>TAing <a href="https://sites.google.com/a/ucsc.edu/cmps11-spring18/" target="_blank">CMPS 11</a> in Spring, 2018</td>
+	</tr>
 
-<p>There are two ways to explain why dividing by (n-1) yeilds a <em>better</em> estimate of the variance than dividing by n:</p>
+	<tr>
+	<td width="75"><b>Nov, 17'</b></td>
+	<td>TAing <a href="https://classes.soe.ucsc.edu/cmps140/Winter18/" target="_blank">CMPS 140</a> in Winter, 18</td>
+	</tr>
 
-<ol>
-  <li>Under-estimation of <script type="math/tex">\sigma^2</script></li>
-  <li>Degrees of freedom!</li>
-</ol>
+	<tr>
+	<td width="75"><b>Jun, 17'</b></td>
+	<td>Interning at <a href="http://www.chobaniangroup.com/" target="_blank">Chobanian Group</a> during Summer, 2017</td>
+	</tr>
 
-<p>Let’s get into them!</p>
+	<tr>
+	<td width="75"><b>Feb, 17'</b></td>
+	<td>Attending <a href="https://www.aaai.org/Conferences/AAAI/aaai17.php" target="_blank">AAAI, 2017</a></td>
+	</tr>
 
-<hr />
-<hr />
+	<tr>
+	<td><b>Nov, 16'</b></td>
+	<td>TAing <a href="https://classes.soe.ucsc.edu/cmps140/Winter17/" target="_blank">CMPS 140</a> in Winter, 17</td>
+	</tr>
+		
+	<tr>
+	<td><b>Feb, 16'</b></td>
+	<td>Attending UC Santa Cruz starting Fall, 16</td>
+	</tr>
 
-<h2 id="under-estimation-of-sigma2">Under-estimation of <script type="math/tex">\sigma^2</script></h2>
-
-<p>Let’s write some code:</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>this is some code
-this is another line of code
-for i in range(10):
-	print i
-</code></pre></div></div>
-
-<blockquote>
-  <p>This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p>
-
-  <p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.</p>
-</blockquote>
-
-<ul>
-  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.</li>
-  <li>
-    <p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-Suspendisse id sem consectetuer libero luctus adipiscing.</p>
-  </li>
-  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.</li>
-  <li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-Suspendisse id sem consectetuer libero luctus adipiscing.</li>
-</ul>
-
-<p><strong>test test</strong></p>
-
-<p>This line has a piece of <code class="highlighter-rouge">code()</code> in it.</p>
-
-<p>This thing happened!</p>
+	<tr>
+	<td><b>Jun, 15'</b></td>
+	<td>Will be joining Xerox Research Centre India as a research intern</td>
+	</tr>
+</table>
 
   </article>
-
-<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        
-        s.src = '//dhawaljoh.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 </div>
 

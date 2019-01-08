@@ -6,12 +6,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Divide by (n-1)? What!? (Bessel&#39;s correction)</title>
-  <meta name="description" content="What is “Bessel’s correction”?  In statistics, Bessel’s correction, named after Friedrich Bessel, is the use of n − 1 instead of n in the formula for the sam...">
+  <title>Projects</title>
+  <meta name="description" content="Dhawal Joharapurkar's academic website.
+">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://dhawaljoh.github.com/blog/2016/03/Divide-by-n-1/">
-  <link rel="alternate" type="application/rss+xml" title="Dhawal Joharapurkar" href="http://dhawaljoh.github.com/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/research/projects/">
+  <link rel="alternate" type="application/rss+xml" title="Dhawal Joharapurkar" href="http://localhost:4000/feed.xml">
 </head>
 
 
@@ -41,7 +42,7 @@
     </li>
     
     
-     <li><a href="/files/CV_Dhawal.pdf" class="page-link">CV</a>
+     <li><a href="/files/CV_new.pdf" class="page-link">CV</a>
     
     </li>
     
@@ -143,101 +144,63 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Divide by (n-1)? What!? (Bessel's correction)</h1>
-    <p class="post-meta">Posted on March 5, 2016<!--  by  Dhawal Joharapurkar   -->
-<!-- 
-  in
-  
-
- -->
-</p>
+    <h1 class="post-title">Projects</h1>
   </header>
 
   <article class="post-content">
-    <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-<h1 id="what-is-bessels-correction">What is “Bessel’s correction”?</h1>
-
-<blockquote>
-  <p>In statistics, Bessel’s correction, named after Friedrich Bessel, is the use of n − 1 instead of n in the formula for the sample variance and sample standard deviation, where n is the number of observations in a sample. This corrects the bias in the estimation of the population variance, and some (but not all) of the bias in the estimation of the population standard deviation, but often increases the mean squared error in these estimations. <a href="https://en.wikipedia.org/wiki/Bessel%27s_correction" target="_blank">wiki</a></p>
-</blockquote>
-
-<p>There are two ways to explain why dividing by (n-1) yeilds a <em>better</em> estimate of the variance than dividing by n:</p>
-
-<ol>
-  <li>Under-estimation of <script type="math/tex">\sigma^2</script></li>
-  <li>Degrees of freedom!</li>
-</ol>
-
-<p>Let’s get into them!</p>
-
-<hr />
-<hr />
-
-<h2 id="under-estimation-of-sigma2">Under-estimation of <script type="math/tex">\sigma^2</script></h2>
-
-<p>Let’s write some code:</p>
-
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>this is some code
-this is another line of code
-for i in range(10):
-	print i
-</code></pre></div></div>
-
-<blockquote>
-  <p>This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p>
-
-  <p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.</p>
-</blockquote>
-
-<ul>
-  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.</li>
+    <ul>
   <li>
-    <p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-Suspendisse id sem consectetuer libero luctus adipiscing.</p>
+    <p><strong><a href="/files/MS.pdf" target="_blank">Master’s Project: User Expertise Detection in Online Communities</a></strong>: [Summer, Fall 18’] <br />
+While detection of experts in online communities is a widely studied problem, most work fail to incorporate the inherent relational nature of these online communities. In this work, we explore the usage of the linkages that exist between posts and be- tween users (structure) in these community question answering sites in the form of related posts, duplicate posts, etc. and use this relational structure in conjunction with local information to collectively predict users’ expertise. We compare the statistics of the evaluation tests to the baseline results from related works to measure the performance of our approach compared to the non-relational methods. We see that using the relational structure of the data helps outperform baseline methods.</p>
   </li>
-  <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.</li>
-  <li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-Suspendisse id sem consectetuer libero luctus adipiscing.</li>
+  <li>
+    <p><strong><a href="/files/203-final-project.pdf" target="_blank">Data Programming: A New Paradigm For Unlabelled Data</a></strong>: [CMPS203, Spring 18’] <br />
+This is a survey on the recent progress in the improvement of data labelling processes. I study the newly introduced “Data Pro- gramming”, a paradigm which deals with programmatic creation of datasets. Then, I look at “Snorkel”, a system that allows users to train models without hand labelling any data. The users can write labelling functions representing heuristics to label data, and can vary in coverages and accuracies. “Snorkel” denoises their outputs and combines them to provide probabilistic data labels. Then, I study “Babble Labble”, which is an extension built using Snorkel, that processes heuristics described in natural language to labelling functions and thereby used to label data. These works constitute an important foray in this space of data labelling, and is right on the horizon of the massive data wave currently under way.</p>
+  </li>
+  <li>
+    <p><strong><a href="/files/cmps-290-spring.pdf" target="_blank">Effects of Social Influences on Culinary Preferences</a></strong>: [CMPS290C, Spring 17’] <br />
+Higgs et al., hypothesize that an individuals’ eating behaviour is strongly influenced by social context. In this work, we seek to model the influence of a friend network on the culinary choices of individuals. We predict a person’s favorite cuisine from social influences from their network and evaluate our model by comparing our predictions to the gold labels that are extracted from the text of the reviews. We use the data from the “Yelp Dataset Challenge” dataset.</p>
+  </li>
+  <li>
+    <p><strong><a href="/files/cmps-245-winter.pdf" target="_blank">Ideology-Backed Stance Classification</a></strong>: [CMPS245, Winter 17’] <br />
+The determination of stance in two-sided discussions/debates in online debate forums is a new and interesting problem in opinion mining. We target the task of classifying stance in ideological debates on online debate forums,
+and this is a rather challenging problem due to the nature of debate setting and the language used. Previous work has introduced the notion of using ideology as an inter-post, extra-linguistic constraint which are implemented using Integer Linear Programming. In this work, we seek to improve an approach on jointly-modeling disagreement and stance in online debate forums by integrating ideology as a latent variable in the joint model. We show improvement of a few percentage points over the baselines set by prior works. Additionally, we have also created a new ideology corpus of around 1.5 million tweets by 645 official members of the U.S. Congress.</p>
+  </li>
+  <li>
+    <p><strong><a href="/files/standoff-evolutionary-analysis.pdf" target="_blank">Standoff: An Evolutionary Analysis</a></strong>: [CMPS272, Winter 17’] [<a href="https://bitbucket.org/dhawaljoh/standoff-gametheory-272" target="_blank">code</a>]<br />
+This work is an equilibrium analysis of Standoff, a stochastic game involving simultaneous move stages with state transitions. Players must decide their best response dependent upon their state, the states of the opposing players, and the states of players in the succeeding stage. In order to analyze Standoff, we constructed strategic form stage diagrams, bi-matrices for two- and three-player versions of Standoff, and determined a mixed strategy per stage of the game. To win, each player should make decisions in a manner that maximizes the probability of being the last man standing. A winning strategy is a complete action plan, which specifies a decision at each stage considering the state combination. Our analysis finds a symmetric equilibrium strategy at a given stage and uses evolutionary dynamics to ascertain the stability of our equilibrium.</p>
+  </li>
+  <li>
+    <p><strong><a href="/files/242-final-report.pdf" target="_blank">Detecting Competitors in a New Location for Yelp Businesses</a></strong>: [CMPS242, Fall 16’] [<a href="https://github.com/eriq-augustine/242-2016" target="_blank">code</a>] <br />
+Our project is focused around helping business owners find potential competitors if they choose to open a branch in a new location. Using this information the business owners can not only find potential competitors, but also get an idea of how well their business will be received in the new locality. We say that a “competitor” is any similar business, with the idea that a similar business caters to a similar clientele and is therefore a competitor. Therefore our task involves finding similar businesses in other regions. We do this by first clustering similar businesses. Once we have the clusters, to find similar businesses in a location, we look into the cluster to which a given restaurant belongs to, and then display restaurants in that cluster that are close to the location. We use the k-medoids algorithm to cluster the businesses as not all attributes are numeric in nature and we need a richer set of dissimilarity scores. We run experiments with various parameter settings, dissimilarity scores, and features and report the rand index on a “gold standard” data set.</p>
+  </li>
+  <li>
+    <p><strong>Analysis of clinical notes of ICU patients using Topic Models</strong>: [Work done at XRCI, IISc with <em><a class="tosu" href="https://sites.google.com/site/vaibhavrajan/" target="_blank">Dr. Vaibhav Rajan</a></em>] <br />
+Worked on predictive health-care using unstructured nursing notes by looking at temporal evolutions of topic proportions generated via Topic Modeling.</p>
+  </li>
+  <li>
+    <p><strong><a href="/files/openday2015.pdf" target="_blank">Temporal Scoping of Relational Facts in a Knowledge Base</a></strong>: [Work done at SERC, IISc with <em><a class="tosu" href="http://www.talukdar.net/" target="_blank">Prof. Partha Talukdar</a></em>] <br />
+To identify if a relation existed between two entities in a sentence, we constructed a model consisting of n-grams which provided clues for the relation. These n-grams, along with features from Entity Linking were used to train a GBDT to identify relations. Stanford’s SUTime was used to extract temporal information present and then normalized. Triggers chosen manually from the language model were used to indicate the start or end of relationships. We devised an algorithm to update the start/end times iteratively as more temporal information was found through new sentences.</p>
+  </li>
+  <li>
+    <p><strong>Automatic Driver Behaviour Profiling</strong>: [Work done at CSE, IIT Kharagpur with <em><a class="tosu" href="http://www.facweb.iitkgp.ernet.in/~sudeshna/" target="_blank">Prof. Sudeshna Sarkar</a></em>] [<a href="https://github.com/dhawaljoh/IIT-Kharagpur" target="_blank">code</a>] <br />
+Worked on profiling the driving patterns of various drivers using GPS data of trucks across India over 15 years using GPS dataset provided by MHRD. Some preliminary data munging and visualizations were done to understand the spread of data. Detection of hotspots(stoppage areas, resting places) using DBSCAN algorithm and road segmentation based on their speed profiles was also done. I also modified the “simplekml” module to plot the GPS points on Google Maps.</p>
+  </li>
+  <li>
+    <p><strong><a href="http://ltrc.iiit.ac.in/icon2015/icon2015_proceedings/PDF/04_rp.pdf" target="_blank">Craigslist Post Classifier: Identify the Category</a></strong>: [<a href="https://github.com/dhawaljoh/craigslist_category_classification" target="_blank">code</a>] <br />
+Used bag of words model, tf-idf and SVM to classify posts on Craigslist into sections based on the product description. The open dataset was available on HackerRank. <strong>Accuracy</strong>: 81%</p>
+  </li>
+  <li>
+    <p><strong>Peptide Status Detection</strong>: [Work done at MIT, Manipal with <em><a class="tosu" href="https://www.linkedin.com/in/smitha-nair-2073324a/?ppe=1" target="_blank">Prof. Smitha Nair</a></em>] [<a href="https://github.com/dhawaljoh/PeptideStatusDetection" target="_blank">code</a>] <br />
+Work on detecting Fibrous regions in proteins using the UniProtKB/Swiss-Prot data. Used Support Vector Machines and Bee Colony Optimization for PCA.</p>
+  </li>
+  <li>
+    <p><strong>Data Science London + Scikit-learn</strong>: [<a href="https://github.com/dhawaljoh/kaggle--data-science-london" target="_blank">code</a>] <br />
+Kaggle competition to explore sklearn.</p>
+  </li>
 </ul>
 
-<p><strong>test test</strong></p>
-
-<p>This line has a piece of <code class="highlighter-rouge">code()</code> in it.</p>
-
-<p>This thing happened!</p>
-
   </article>
-
-<div id="disqus_thread"></div>
-<script>
-    /**
-     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-     */
-    /*
-    var disqus_config = function () {
-        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() {  // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        
-        s.src = '//dhawaljoh.disqus.com/embed.js';
-        
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
 </div>
 
