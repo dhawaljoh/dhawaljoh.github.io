@@ -9,7 +9,7 @@ layout: default
 Ph.D. Student, Computer Science <br>
 University of California, Santa Cruz <br>
 
-<em>Curriculum Vitae: </em><a href="/files/CV_Dhawal.pdf" target="_blank">PDF</a>  <small>(Feb, 2019)</small> <br>
+<em>Curriculum Vitae: </em><a href="/files/CV_Dhawal.pdf" target="_blank">PDF</a>  <small>(Mar, 2019)</small> <br>
 <em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a> | <a href="mailto:dhawal.joharapurkar@gmail.com">dhawal.joharapurkar@gmail.com</a> <br>
 <em>Office: </em>Engineering 2, 386<br>
 <br>
@@ -40,18 +40,18 @@ My research interests lie at the intersection of Crowdsourcing, Natural Language
 <table style="white-space: nowrap;">
 
 	<tr>
+	<td width="75"><b>Feb, 19'</b></td>
+	<td>Interning at <a href="https://www.a9.com/" target="_blank">Amazon A9</a> during Summer, 2019</td>
+	</tr>
+
+	<tr>
+	<td width="75"><b>Feb, 19'</b></td>
+	<td>TAing <a href="https://courses.soe.ucsc.edu/courses/cmps11/Spring19/01" target="_blank">CMPS 11</a> in Spring, 2019</td>
+	</tr>
+
+	<tr>
 	<td width="75"><b>Dec, 18'</b></td>
 	<td>Beginning to work with  <a href="http://www.yliuu.com/" target="_blank">Prof. Yang Liu</a> from Winter, 2019</td>
-	</tr>
-
-	<tr>
-	<td width="75"><b>Nov, 18'</b></td>
-	<td>TAing  <a href="https://cmps012a-winter19-01.courses.soe.ucsc.edu/" target="_blank">CMPS 12A/L</a> in Winter, 2019</td>
-	</tr>
-
-	<tr>
-	<td width="75"><b>Aug, 18'</b></td>
-	<td>TAing <a href="https://canvas.ucsc.edu/courses/16233" target="_blank">CMPS 5J</a> in Fall, 2018</td>
 	</tr>
 
 

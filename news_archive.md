@@ -8,6 +8,16 @@ permalink: /news-archive
 <table style="white-space: nowrap;">
 
 	<tr>
+	<td width="75"><b>Nov, 18'</b></td>
+	<td>TAing  <a href="https://cmps012a-winter19-01.courses.soe.ucsc.edu/" target="_blank">CMPS 12A/L</a> in Winter, 2019</td>
+	</tr>
+
+	<tr>
+	<td width="75"><b>Aug, 18'</b></td>
+	<td>TAing <a href="https://canvas.ucsc.edu/courses/16233" target="_blank">CMPS 5J</a> in Fall, 2018</td>
+	</tr>
+
+	<tr>
 	<td width="75"><b>May, 18'</b></td>
 	<td>Interning at <a href="https://www.lamresearch.com/" target="_blank">Lam Research</a> during Summer, 2018</td>
 	</tr>
