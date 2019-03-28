@@ -6,9 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Mar 2019 12:16:21 -0800</pubDate>
-    <lastBuildDate>Sat, 02 Mar 2019 12:16:21 -0800</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <pubDate>Thu, 28 Mar 2019 10:36:06 +0530</pubDate>
+    <lastBuildDate>Thu, 28 Mar 2019 10:36:06 +0530</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
     
       <item>
         <title>My Ph.D. Application Story</title>
@@ -107,7 +107,7 @@
 
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;P.S.: No, I will not share any of the material I used in my application. Applications are meant to be done yourself and it gives you a chance to pitch yourself to the university. There are a lot of upsides if you do this task the right way. So, good luck to you! I hope you land your dream advisor!&lt;/code&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Mar 2016 08:36:27 -0700</pubDate>
+        <pubDate>Fri, 25 Mar 2016 21:06:27 +0530</pubDate>
         <link>http://localhost:4000/blog/2016/03/My-PhD-Application-Story/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2016/03/My-PhD-Application-Story/</guid>
         
@@ -176,7 +176,7 @@ Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/li&gt;
 
 &lt;p&gt;This thing happened!&lt;/p&gt;
 </description>
-        <pubDate>Sat, 05 Mar 2016 07:36:27 -0800</pubDate>
+        <pubDate>Sat, 05 Mar 2016 21:06:27 +0530</pubDate>
         <link>http://localhost:4000/blog/2016/03/Divide-by-n-1/</link>
         <guid isPermaLink="true">http://localhost:4000/blog/2016/03/Divide-by-n-1/</guid>
         
