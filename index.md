@@ -9,7 +9,7 @@ layout: default
 Ph.D. Student, Computer Science <br>
 University of California, Santa Cruz <br>
 
-<em>Curriculum Vitae: </em><a href="/files/CV_Dhawal.pdf" target="_blank">PDF</a>  <small>(Apr, 2019)</small> <br>
+<em>Curriculum Vitae: </em><a href="/files/CV_Dhawal.pdf" target="_blank">PDF</a>  <small>(Aug, 2019)</small> <br>
 <em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a> | <a href="mailto:dhawal.joharapurkar@gmail.com">dhawal.joharapurkar@gmail.com</a> <br>
 <em>Office: </em>Engineering 2, 386<br>
 <br>
