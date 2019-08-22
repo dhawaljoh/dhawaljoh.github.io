@@ -6,7 +6,7 @@ layout: default
 
 
 # Dhawal Joharapurkar  <a href="/images/me2.jpeg" target="_blank"><img src="images/me2.jpeg" alt="Dhawal Joharapurkar" style="width:275px;" align="right"></a>
-Ph.D. Student, Computer Science <br>
+M.S. Student, Computer Science <br>
 University of California, Santa Cruz <br>
 
 <em>Curriculum Vitae: </em><a href="/files/CV_Dhawal.pdf" target="_blank">PDF</a>  <small>(Aug, 2019)</small> <br>
@@ -23,7 +23,7 @@ University of California, Santa Cruz <br>
 
 
 <p align="justify" style="max-width:600px">
-Currently, I'm being advised by <a href="http://www.yliuu.com/" target="_blank">Prof. Yang Liu</a> at <em><a class="tosu" href="http://www.ucsc.edu/" target="_blank">UC Santa Cruz</a></em>. Between 2016 and 2018, I worked with <a href="https://getoor.soe.ucsc.edu/home" target="_blank">Prof. Lise Getoor</a> as part of <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQs</a>.</p>
+Currently, I am an MS student in Computer Science at <em><a class="tosu" href="http://www.ucsc.edu/" target="_blank">UC Santa Cruz</a></em>. Between 2016 and 2018, I worked with <a href="https://getoor.soe.ucsc.edu/home" target="_blank">Prof. Lise Getoor</a> as part of <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQs</a>.</p>
 
 <p align="justify" style="max-width:600px">During 2015-2016 I worked on predictive healthcare at Xerox Research Centre India with  <a href="https://www.iiitb.ac.in/faculty_page.php?name=vaibhavrajan" target="_blank">Prof. Vaibhav Rajan</a>. Prior to that, I graduated from <em><a class="tosu" href="http://manipal.edu/mu.html" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in May, 2015. While there, I was actively involved with the IEEE Student Branch, Manipal and served as its Techincal Secretary during 2013-14.</p>
 
@@ -40,6 +40,11 @@ My research interests lie at the intersection of Crowdsourcing, Natural Language
 <table style="white-space: nowrap;">
 
 	<tr>
+	<td width="75"><b>Aug, 19'</b></td>
+	<td>TAing <a href="https://courses.soe.ucsc.edu/courses/cse184/Fall19/01" target="_blank">CSE 184</a> in Fall, 2019</td>
+	</tr>
+
+	<tr>
 	<td width="75"><b>Feb, 19'</b></td>
 	<td>Interning at <a href="https://www.a9.com/" target="_blank">Amazon A9</a> during Summer, 2019</td>
 	</tr>
@@ -48,12 +53,6 @@ My research interests lie at the intersection of Crowdsourcing, Natural Language
 	<td width="75"><b>Feb, 19'</b></td>
 	<td>TAing <a href="https://courses.soe.ucsc.edu/courses/cmps11/Spring19/01" target="_blank">CMPS 11</a> in Spring, 2019</td>
 	</tr>
-
-	<tr>
-	<td width="75"><b>Dec, 18'</b></td>
-	<td>Beginning to work with  <a href="http://www.yliuu.com/" target="_blank">Prof. Yang Liu</a> from Winter, 2019</td>
-	</tr>
-
 
 	<tr>
 	<td><b>Older</b></td>
