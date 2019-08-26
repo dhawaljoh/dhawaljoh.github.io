@@ -9,7 +9,9 @@ layout: default
 M.S. Student, Computer Science <br>
 University of California, Santa Cruz <br>
 
-<em>Curriculum Vitae: </em><a href="/files/CV_Dhawal.pdf" target="_blank">PDF</a>  <small>(Aug, 2019)</small> <br>
+<a href="/files/CV_Dhawal.pdf" target="_blank"><em>Curriculum Vitae</em></a> | <a href="/files/Resume_Dhawal.pdf" target="_blank"><em>Résumé</em></a> <small>(Updated: Sep, 2019)</small> <br>
+<!-- <em>Curriculum Vitae: </em><a href="/files/CV_Dhawal.pdf" target="_blank">PDF</a>  <small>(Sep, 2019)</small> <br> -->
+<!-- <em>Résumé: </em><a href="/files/Resume_Dhawal.pdf" target="_blank">PDF</a>  <small>(Sep, 2019)</small> <br> -->
 <em>Email: </em><a href="mailto:dhawal@ucsc.edu">dhawal@ucsc.edu</a> | <a href="mailto:dhawal.joharapurkar@gmail.com">dhawal.joharapurkar@gmail.com</a> <br>
 <em>Office: </em>Engineering 2, 386<br>
 <br>
@@ -23,9 +25,9 @@ University of California, Santa Cruz <br>
 
 
 <p align="justify" style="max-width:600px">
-Currently, I am an MS student in Computer Science at <em><a class="tosu" href="http://www.ucsc.edu/" target="_blank">UC Santa Cruz</a></em>. Between 2016 and 2018, I worked with <a href="https://getoor.soe.ucsc.edu/home" target="_blank">Prof. Lise Getoor</a> as part of <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQs</a>.</p>
+Currently, I am an MS student in Computer Science at <em><a class="tosu" href="http://www.ucsc.edu/" target="_blank">UC Santa Cruz</a></em> and I'll be graduating in December, 2019. I am looking for full-time roles in the US.</p>
 
-<p align="justify" style="max-width:600px">During 2015-2016 I worked on predictive healthcare at Xerox Research Centre India with  <a href="https://www.iiitb.ac.in/faculty_page.php?name=vaibhavrajan" target="_blank">Prof. Vaibhav Rajan</a>. Prior to that, I graduated from <em><a class="tosu" href="http://manipal.edu/mu.html" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in May, 2015. While there, I was actively involved with the IEEE Student Branch, Manipal and served as its Techincal Secretary during 2013-14.</p>
+<p align="justify" style="max-width:600px">Between 2016 and 2018, I worked with <a href="https://getoor.soe.ucsc.edu/home" target="_blank">Prof. Lise Getoor</a> as part of <a href="https://linqs.soe.ucsc.edu/" target="_blank">LINQs</a>. During 2015-2016 I worked on predictive healthcare at Xerox Research Centre India with  <a href="https://sites.google.com/view/vaibhavrajan/home?authuser=0" target="_blank">Prof. Vaibhav Rajan</a>. Prior to that, I graduated from <em><a class="tosu" href="http://manipal.edu/mu.html" target="_blank">Manipal Institute of Technology, Manipal</a></em> with a B.Tech in Computer Science and Engineering in May, 2015. While there, I was actively involved with the IEEE Student Branch, Manipal and served as its Techincal Secretary during 2013-14.</p>
 
 <a href="http://manipal.edu/mu.html" target="_blank"><img src="images/mit.jpg" alt="MIT, Manipal" style="width:275px;" align="right"></a>
 
