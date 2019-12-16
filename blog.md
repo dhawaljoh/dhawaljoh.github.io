@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-comments: true
+permalink: /blog/
 ---
 
 {% include intro.html %}

@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "Dhawal"
 title_right   : " Joharapurkar" # default: ""
-description   : "Geek, foodie, dilettante."
+description   : "Personal Website"
 keywords      : "dhawal, joharapurkar"
 url           : https://dhawaljoh.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
