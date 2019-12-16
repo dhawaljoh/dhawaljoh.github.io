@@ -1,184 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dhawal Joharapurkar</title>
-    <description>Dhawal Joharapurkar's academic website.
-</description>
+    <title></title>
+    <description>Geek, foodie, dilettante.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Aug 2019 00:38:04 -0700</pubDate>
-    <lastBuildDate>Mon, 26 Aug 2019 00:38:04 -0700</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <pubDate>Sun, 15 Dec 2019 21:39:53 -0800</pubDate>
+    <lastBuildDate>Sun, 15 Dec 2019 21:39:53 -0800</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
     
       <item>
-        <title>My Ph.D. Application Story</title>
-        <description>&lt;p&gt;Ah, the clichéd “application story”. Adding to the pile, here goes:&lt;/p&gt;
+        <title>What is Lorem Ipsum?</title>
+        <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;
 
-&lt;p&gt;My PhD story, as I like to think of it, is made up of two parts - &lt;strong&gt;the fall and the rise&lt;/strong&gt; (if you don’t realize how many clichés there are going to be in this one, I apologize in advance).&lt;/p&gt;
+&lt;h3 id=&quot;where-does-it-come-from&quot;&gt;Where does it come from?&lt;/h3&gt;
 
-&lt;h2 id=&quot;part-1---the-fall&quot;&gt;Part 1 - The Fall&lt;/h2&gt;
+&lt;p&gt;Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of “de Finibus Bonorum et Malorum” (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, “Lorem ipsum dolor sit amet..”, comes from a line in section 1.10.32.&lt;/p&gt;
 
-&lt;p&gt;I graduated from Manipal Institute of Technology, Manipal in 2015. So, I spent most of Fall 2014 applying to colleges. These are the places I applied to for an MS in CS:&lt;/p&gt;
+&lt;p&gt;The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from “de Finibus Bonorum et Malorum” by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Carnegie Mellon University (MS in ML)&lt;/li&gt;
-  &lt;li&gt;Ohio State University&lt;/li&gt;
-  &lt;li&gt;University of Minnesota&lt;/li&gt;
-  &lt;li&gt;University of California, Irvine&lt;/li&gt;
-  &lt;li&gt;Georgia Institute of Technology&lt;/li&gt;
-  &lt;li&gt;University of Massachusetts, Amherst&lt;/li&gt;
-  &lt;li&gt;New York University&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;why-do-we-use-it&quot;&gt;Why do we use it?&lt;/h3&gt;
 
-&lt;p&gt;My profile was: mediocre GPA, GRE score of 321 (165Q + 156V + 4.0 AWA), TOEFL score of 108, decent set of projects and a couple of internships. I had taught myself a little bit of Machine Learning and thought I was in a good place to get into atleast one of the places I applied to.&lt;/p&gt;
+&lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for ‘lorem ipsum’ will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).&lt;/p&gt;
 
-&lt;p&gt;Then, BAM. 7 rejects and I was left reeling. It was a terrible feeling.&lt;/p&gt;
+&lt;h3 id=&quot;where-can-i-get-some&quot;&gt;Where can I get some?&lt;/h3&gt;
 
-&lt;h2 id=&quot;the-missing-part---the-part-that-no-one-talks-about&quot;&gt;The Missing Part - The part that no one talks about&lt;/h2&gt;
-
-&lt;p&gt;Sometime in April, 2015 when I was down and out about the rejects, I was talking to a good friend. Let’s call him Akshay, because that’s his name. He didn’t try to console me or advise me, all he did was link me to this video.&lt;/p&gt;
-
-&lt;center&gt; &lt;iframe src=&quot;https://player.vimeo.com/video/87448006?title=0&amp;amp;byline=0&amp;amp;portrait=0&amp;amp;badge=0&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/center&gt;
-&lt;center&gt;&lt;a href=&quot;https://vimeo.com/87448006&quot;&gt;The Long Game Part 2: the missing chapter&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/delvetv&quot;&gt;Delve&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/center&gt;
-
-&lt;p&gt;In a mere 6 minutes, this video gave me so much to ponder over. Thank you, Akshay.&lt;/p&gt;
-
-&lt;p&gt;I did a lot of thinking and realized that I wanted to do a PhD. Maybe my profile wasn’t strong enough for a Master’s application. Heck, if it isn’t, it surely is nowhere close to helping me get admitted into PhD programs. I realized the best thing I can do to offset my GPA is to do internships at reputed places. Thus began the next part.&lt;/p&gt;
-
-&lt;h2 id=&quot;part-2---the-rise&quot;&gt;Part 2 - The Rise&lt;/h2&gt;
-
-&lt;p&gt;I realized very early, thanks to wonderful mentors I found in seniors from school and college, that PhD applications are &lt;strong&gt;not&lt;/strong&gt; at all like MS applications. I needed to show demonstrated ability of research and take a more structured approach to applying.&lt;/p&gt;
-
-&lt;p&gt;My profile did improve a bit - over the course of Spring, 2015, my GPA increased a fair amount, I completed internships at IISc, IIIT Hyderabad and got started at Xerox Research Centre India. I even managed to snag one publication. But that alone wouldn’t be enough to prove my worth. I knew I needed a killer SOP that would drive home the point that I’m fit for research.&lt;/p&gt;
-
-&lt;p&gt;I collected code from all my projects, organized it, put it on GitHub, and linked it on my SOP. My SOP was weaved into a story of my progress through undergrad while trying to convince the admissions committee that I was ready for grad school. None of the “We bought our first computer when I was aged 6…” nonsense. Let’s break it down.&lt;/p&gt;
-
-&lt;p&gt;I had my SOP chopped up into three sections, so, here’s some advice:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Introduction
-    &lt;ol&gt;
-      &lt;li&gt;One line introducing your field of study. Try to be creative here and by that I don’t mean use fancy words. Try to concisely state a fact or two from your field of study and why you’re motivated to do research in it. Makes a better opening statement than “I started learning Python before my mother tongue”, right?&lt;/li&gt;
-      &lt;li&gt;Maybe another line or two citing examples/work that make your case stronger. The more current the work, the better as that would mean that research is fairly active in this field. This also shows that you’ve done your research and know what you’re talking about. Again, be concise, don’t ramble on.&lt;/li&gt;
-      &lt;li&gt;The second paragraph of your Introduction should be a 3-4 line summary of how you think your experience thus far has set you up nicely to enter grad school. Be careful not to boast, the tone you take is very important.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Undergraduate Experiences and What I Learnt
-    &lt;ol&gt;
-      &lt;li&gt;Although not necessary, I would prefer a chronological order to list your work. That way, you can even explain how you were building your skills along the way.&lt;/li&gt;
-      &lt;li&gt;For each of your internship/project that you want to mention here, have a paragraph. Again, don’t exceed 3-4 line per paragraph as doing show only shows that you cannot concisely yet wholly talk about your project.&lt;/li&gt;
-      &lt;li&gt;As an added bonus, &lt;strong&gt;DO&lt;/strong&gt; include links to any papers/code on GitHub that this work lead to. It’s a nice touch.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Why [collegeName]?
-    &lt;ol&gt;
-      &lt;li&gt;This is an important section. Here, you have a chance to make or break your case. Obviously, if you aren’t prepared enough, you will come off sounding insincere and that’s not a good first impression.&lt;/li&gt;
-      &lt;li&gt;Consider this as due diligence. But, this doesn’t mean that you jot down names of papers of your prospective advisor and state things directly from them. Anybody can read papers and state what they understood. (I’m assuming that you understand the paper in the right way, if you don’t, more negative points.) Unless you have something meaningful to contribute, it’s better to avoid suggesting/saying anything. Although, it’s very unlikely that you’ll have anything significant to add, so, it’s just best to suggest how your interests gel with your advisors’ interests.&lt;/li&gt;
-      &lt;li&gt;If you have worked on something that you think is very relevant to the advisors’ research, quote it here. Doing so, you’re making sure that the advisor has read the most relevant piece of your application.&lt;/li&gt;
-      &lt;li&gt;Be nice, sign off by thanking the committee for spending time reading your application.&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I think that rounds up to a good looking SOP if done right. It’ll be a no-nonsense piece, something refreshing for the committee to read. Obviously, feel free to take as much or as little of those points. They worked for me, they may or may not work for you.&lt;/p&gt;
-
-&lt;p&gt;A few other ideas to score some brownie points:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Have an academic/porfolio website. In this day and age, there are many platforms that can help you get set up in a matter of a couple of hours. If you don’t mind a xyz.github.io URL, you can even host your website for free using GitHub.&lt;/li&gt;
-  &lt;li&gt;Make your CV, SOP and any other document that you need to write in LaTeX. It definitely is worth your while to learn it if you plan to be in academia.&lt;/li&gt;
-  &lt;li&gt;Any emails to the staff, be corteous and as helpful (stating your application number, exact problem explained concisely, etc) as you can be. Do &lt;strong&gt;NOT&lt;/strong&gt; rush them or send them mails asking when the result will be out. Such requests are annoying and you’ll never get a reply.&lt;/li&gt;
-  &lt;li&gt;It is also a good idea to talk to students of the potential advisor. You can be slightly informal with them and get a lot of information about the university/department/location and mainly the professor.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;That wraps up the “applying” part of the process, which is crucial, but not the most crucial piece of your application. Funnily enough, the part that I consider the most crucial isn’t even on your application. If you haven’t guessed already, it is mailing the professor.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://matt.might.net/articles/how-to-email/&quot; target=&quot;_blank&quot;&gt;This&lt;/a&gt; is the bible of emailing professors. Patience is key while emailing prospective advisors.&lt;/p&gt;
+&lt;p&gt;There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don’t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The professor’s time is a million times more important than yours. So, &lt;strong&gt;DO NOT&lt;/strong&gt; waste their time.&lt;/p&gt;
+  &lt;p&gt;This content was copied from http://www.lipsum.com/ as an example of post article.&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;I had emailed my prospective advisors thrice. The first one, sometime in July/August, asking if they’re taking on students for the following Fall. Yes, 4-5 months before you even apply. Most students are highly impatient, and most professors will not reply within a couple of weeks even. You need as big a buffer as you can manage. So, emailing them in July means you need to have zeroed in on them sometime in April/May which gives you a couple of months to read their work and decide if you want to apply to work with them or not. Coming back to the email, it should be short with a useful subject line (be very aware of spam filters and make sure your mail is not tossed before it’s even opened). In this email, you introduce yourself, state your interest in working with them and then pop the question. If you do get a reply, that’s a good sign. The second email, I sent when I finished applying, letting them know in a “quick update” email. The third, when my application was complete after all my recommendations had been submitted. This one should contain your application number so that the professor can easily locate your application and line or two telling them that you can send across anything specific they’d want to look at. Obviously, in every email, make sure that you have no typos and your grammar is on point.&lt;/p&gt;
-
-&lt;p&gt;Take &lt;a href=&quot;http://emeryberger.com/admission-notes/&quot; target=&quot;_blank&quot;&gt;this&lt;/a&gt; link very seriously. It contains very specific, concise, and highly useful information. Moreover, it is information you can trust coming from Prof. Emery Berger at UMass, Amherst.&lt;/p&gt;
-
-&lt;p&gt;Actually, the video that I shared above is more relevant once you have your admit and are about to start your Ph.D., but, oh well!&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;P.S.: No, I will not share any of the material I used in my application. Applications are meant to be done yourself and it gives you a chance to pitch yourself to the university. There are a lot of upsides if you do this task the right way. So, good luck to you! I hope you land your dream advisor!&lt;/code&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 25 Mar 2016 08:36:27 -0700</pubDate>
-        <link>http://localhost:4000/blog/2016/03/My-PhD-Application-Story/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/03/My-PhD-Application-Story/</guid>
+        <pubDate>Sun, 15 Dec 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2019/what-is-lorem-ipsum/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/what-is-lorem-ipsum/</guid>
         
         
       </item>
     
       <item>
-        <title>Divide by (n-1)? What!? (Bessel's correction)</title>
-        <description>&lt;script src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot; type=&quot;text/javascript&quot;&gt;&lt;/script&gt;
-
-&lt;h1 id=&quot;what-is-bessels-correction&quot;&gt;What is “Bessel’s correction”?&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;In statistics, Bessel’s correction, named after Friedrich Bessel, is the use of n − 1 instead of n in the formula for the sample variance and sample standard deviation, where n is the number of observations in a sample. This corrects the bias in the estimation of the population variance, and some (but not all) of the bias in the estimation of the population standard deviation, but often increases the mean squared error in these estimations. &lt;a href=&quot;https://en.wikipedia.org/wiki/Bessel%27s_correction&quot; target=&quot;_blank&quot;&gt;wiki&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There are two ways to explain why dividing by (n-1) yeilds a &lt;em&gt;better&lt;/em&gt; estimate of the variance than dividing by n:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Under-estimation of &lt;script type=&quot;math/tex&quot;&gt;\sigma^2&lt;/script&gt;&lt;/li&gt;
-  &lt;li&gt;Degrees of freedom!&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Let’s get into them!&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;under-estimation-of-sigma2&quot;&gt;Under-estimation of &lt;script type=&quot;math/tex&quot;&gt;\sigma^2&lt;/script&gt;&lt;/h2&gt;
-
-&lt;p&gt;Let’s write some code:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;this is some code
-this is another line of code
-for i in range(10):
-	print i
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
-
-  &lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.&lt;/li&gt;
-  &lt;li&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/li&gt;
+        <title>Projects</title>
+        <description>&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/files/MS.pdf&quot; target=&quot;_blank&quot;&gt;Master’s Project: User Expertise Detection in Online Communities&lt;/a&gt;&lt;/strong&gt;: [Summer, Fall 18’] &lt;br /&gt;
+While detection of experts in online communities is a widely studied problem, most work fail to incorporate the inherent relational nature of these online communities. In this work, we explore the usage of the linkages that exist between posts and be- tween users (structure) in these community question answering sites in the form of related posts, duplicate posts, etc. and use this relational structure in conjunction with local information to collectively predict users’ expertise. We compare the statistics of the evaluation tests to the baseline results from related works to measure the performance of our approach compared to the non-relational methods. We see that using the relational structure of the data helps outperform baseline methods.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;test test&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/files/203-final-report.pdf&quot; target=&quot;_blank&quot;&gt;Data Programming: A New Paradigm For Unlabelled Data&lt;/a&gt;&lt;/strong&gt;: [CMPS203, Spring 18’] &lt;br /&gt;
+This is a survey on the recent progress in the improvement of data labelling processes. I study the newly introduced “Data Pro- gramming”, a paradigm which deals with programmatic creation of datasets. Then, I look at “Snorkel”, a system that allows users to train models without hand labelling any data. The users can write labelling functions representing heuristics to label data, and can vary in coverages and accuracies. “Snorkel” denoises their outputs and combines them to provide probabilistic data labels. Then, I study “Babble Labble”, which is an extension built using Snorkel, that processes heuristics described in natural language to labelling functions and thereby used to label data. These works constitute an important foray in this space of data labelling, and is right on the horizon of the massive data wave currently under way.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;This line has a piece of &lt;code class=&quot;highlighter-rouge&quot;&gt;code()&lt;/code&gt; in it.&lt;/p&gt;
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/files/cmps-290-spring.pdf&quot; target=&quot;_blank&quot;&gt;Effects of Social Influences on Culinary Preferences&lt;/a&gt;&lt;/strong&gt;: [CMPS290C, Spring 17’] &lt;br /&gt;
+Higgs et al., hypothesize that an individuals’ eating behaviour is strongly influenced by social context. In this work, we seek to model the influence of a friend network on the culinary choices of individuals. We predict a person’s favorite cuisine from social influences from their network and evaluate our model by comparing our predictions to the gold labels that are extracted from the text of the reviews. We use the data from the “Yelp Dataset Challenge” dataset.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;This thing happened!&lt;/p&gt;
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/files/cmps-245-winter.pdf&quot; target=&quot;_blank&quot;&gt;Ideology-Backed Stance Classification&lt;/a&gt;&lt;/strong&gt;: [CMPS245, Winter 17’] &lt;br /&gt;
+The determination of stance in two-sided discussions/debates in online debate forums is a new and interesting problem in opinion mining. We target the task of classifying stance in ideological debates on online debate forums,
+and this is a rather challenging problem due to the nature of debate setting and the language used. Previous work has introduced the notion of using ideology as an inter-post, extra-linguistic constraint which are implemented using Integer Linear Programming. In this work, we seek to improve an approach on jointly-modeling disagreement and stance in online debate forums by integrating ideology as a latent variable in the joint model. We show improvement of a few percentage points over the baselines set by prior works. Additionally, we have also created a new ideology corpus of around 1.5 million tweets by 645 official members of the U.S. Congress.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/files/standoff-evolutionary-analysis.pdf&quot; target=&quot;_blank&quot;&gt;Standoff: An Evolutionary Analysis&lt;/a&gt;&lt;/strong&gt;: [CMPS272, Winter 17’] [&lt;a href=&quot;https://bitbucket.org/dhawaljoh/standoff-gametheory-272&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt;]&lt;br /&gt;
+This work is an equilibrium analysis of Standoff, a stochastic game involving simultaneous move stages with state transitions. Players must decide their best response dependent upon their state, the states of the opposing players, and the states of players in the succeeding stage. In order to analyze Standoff, we constructed strategic form stage diagrams, bi-matrices for two- and three-player versions of Standoff, and determined a mixed strategy per stage of the game. To win, each player should make decisions in a manner that maximizes the probability of being the last man standing. A winning strategy is a complete action plan, which specifies a decision at each stage considering the state combination. Our analysis finds a symmetric equilibrium strategy at a given stage and uses evolutionary dynamics to ascertain the stability of our equilibrium.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/files/242-final-report.pdf&quot; target=&quot;_blank&quot;&gt;Detecting Competitors in a New Location for Yelp Businesses&lt;/a&gt;&lt;/strong&gt;: [CMPS242, Fall 16’] [&lt;a href=&quot;https://github.com/eriq-augustine/242-2016&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt;] &lt;br /&gt;
+Our project is focused around helping business owners find potential competitors if they choose to open a branch in a new location. Using this information the business owners can not only find potential competitors, but also get an idea of how well their business will be received in the new locality. We say that a “competitor” is any similar business, with the idea that a similar business caters to a similar clientele and is therefore a competitor. Therefore our task involves finding similar businesses in other regions. We do this by first clustering similar businesses. Once we have the clusters, to find similar businesses in a location, we look into the cluster to which a given restaurant belongs to, and then display restaurants in that cluster that are close to the location. We use the k-medoids algorithm to cluster the businesses as not all attributes are numeric in nature and we need a richer set of dissimilarity scores. We run experiments with various parameter settings, dissimilarity scores, and features and report the rand index on a “gold standard” data set.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;Analysis of clinical notes of ICU patients using Topic Models&lt;/strong&gt;: [Work done at XRCI, IISc with &lt;em&gt;&lt;a class=&quot;tosu&quot; href=&quot;https://sites.google.com/site/vaibhavrajan/&quot; target=&quot;_blank&quot;&gt;Dr. Vaibhav Rajan&lt;/a&gt;&lt;/em&gt;] &lt;br /&gt;
+Worked on predictive health-care using unstructured nursing notes by looking at temporal evolutions of topic proportions generated via Topic Modeling.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/files/openday2015.pdf&quot; target=&quot;_blank&quot;&gt;Temporal Scoping of Relational Facts in a Knowledge Base&lt;/a&gt;&lt;/strong&gt;: [Work done at SERC, IISc with &lt;em&gt;&lt;a class=&quot;tosu&quot; href=&quot;http://www.talukdar.net/&quot; target=&quot;_blank&quot;&gt;Prof. Partha Talukdar&lt;/a&gt;&lt;/em&gt;] &lt;br /&gt;
+To identify if a relation existed between two entities in a sentence, we constructed a model consisting of n-grams which provided clues for the relation. These n-grams, along with features from Entity Linking were used to train a GBDT to identify relations. Stanford’s SUTime was used to extract temporal information present and then normalized. Triggers chosen manually from the language model were used to indicate the start or end of relationships. We devised an algorithm to update the start/end times iteratively as more temporal information was found through new sentences.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;Automatic Driver Behaviour Profiling&lt;/strong&gt;: [Work done at CSE, IIT Kharagpur with &lt;em&gt;&lt;a class=&quot;tosu&quot; href=&quot;http://www.facweb.iitkgp.ernet.in/~sudeshna/&quot; target=&quot;_blank&quot;&gt;Prof. Sudeshna Sarkar&lt;/a&gt;&lt;/em&gt;] [&lt;a href=&quot;https://github.com/dhawaljoh/IIT-Kharagpur&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt;] &lt;br /&gt;
+Worked on profiling the driving patterns of various drivers using GPS data of trucks across India over 15 years using GPS dataset provided by MHRD. Some preliminary data munging and visualizations were done to understand the spread of data. Detection of hotspots(stoppage areas, resting places) using DBSCAN algorithm and road segmentation based on their speed profiles was also done. I also modified the “simplekml” module to plot the GPS points on Google Maps.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://ltrc.iiit.ac.in/icon2015/icon2015_proceedings/PDF/04_rp.pdf&quot; target=&quot;_blank&quot;&gt;Craigslist Post Classifier: Identify the Category&lt;/a&gt;&lt;/strong&gt;: [&lt;a href=&quot;https://github.com/dhawaljoh/craigslist_category_classification&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt;] &lt;br /&gt;
+Used bag of words model, tf-idf and SVM to classify posts on Craigslist into sections based on the product description. The open dataset was available on HackerRank. &lt;strong&gt;Accuracy&lt;/strong&gt;: 81%&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Peptide Status Detection&lt;/strong&gt;: [Work done at MIT, Manipal with &lt;em&gt;&lt;a class=&quot;tosu&quot; href=&quot;https://www.linkedin.com/in/smitha-nair-2073324a/?ppe=1&quot; target=&quot;_blank&quot;&gt;Prof. Smitha Nair&lt;/a&gt;&lt;/em&gt;] [&lt;a href=&quot;https://github.com/dhawaljoh/PeptideStatusDetection&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt;] &lt;br /&gt;
+Work on detecting Fibrous regions in proteins using the UniProtKB/Swiss-Prot data. Used Support Vector Machines and Bee Colony Optimization for PCA.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ul style=&quot;text-align: justify;&quot;&gt;
+  &lt;li&gt;&lt;strong&gt;Data Science London + Scikit-learn&lt;/strong&gt;: [&lt;a href=&quot;https://github.com/dhawaljoh/kaggle--data-science-london&quot; target=&quot;_blank&quot;&gt;code&lt;/a&gt;] &lt;br /&gt;
+Kaggle competition to explore sklearn.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sat, 05 Mar 2016 07:36:27 -0800</pubDate>
-        <link>http://localhost:4000/blog/2016/03/Divide-by-n-1/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/03/Divide-by-n-1/</guid>
+        <pubDate>Sun, 15 Dec 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2019/projects/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/projects/</guid>
         
         
       </item>

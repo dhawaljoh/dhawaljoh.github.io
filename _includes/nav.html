@@ -1,15 +1,10 @@
-<ul class="menu">
-{% for dhawal in site.data.menu %}
-    {% if dhawal.subcategories != null %}
-    <li><a href="{{ dhawal.href }}" class="page-link">{{ dhawal.title }}</a>
-    <ul class="sub-menu">
-    {% for subcategory in dhawal.subcategories %}
-    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-    {% endfor %}
+<nav class="nav">
+  <div class="container">
+    <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl | prepend: site.url }}"></span>{{ site.title_left }}</span>{{ site.title_right }}</a></h1>
+    <ul class="navbar">
+      <li><a href="{{ '/about' | prepend: site.baseurl | prepend: site.url }}">About</a></li>
+      <!-- <li><a href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank">RSS</a></li> -->
+      <li><a href="https://dhawaljoh.github.io/files/Resume_Dhawal.pdf" target="_blank">Résumé</a></li>
     </ul>
-    {% else %}
-     <li><a href="{{ dhawal.href }}" class="page-link">{{ dhawal.title }}</a>
-    {% endif %}
-    </li>
-    {% endfor %}
-    </ul>
+  </div>
+</nav>
