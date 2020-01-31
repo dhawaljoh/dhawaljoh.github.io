@@ -1,44 +1,57 @@
 ---
-layout: page
-title: Projects
-permalink: /research/projects/
+layout: post
+title: "Projects"
+description: "Past Projects"
+comments: true
+keywords: "projects"
+permalink: /research/projects
 ---
+
 
 - **[Master's Project: User Expertise Detection in Online Communities](/files/MS.pdf){:target="_blank"}**: [Summer, Fall 18'] <br>
 While detection of experts in online communities is a widely studied problem, most work fail to incorporate the inherent relational nature of these online communities. In this work, we explore the usage of the linkages that exist between posts and be- tween users (structure) in these community question answering sites in the form of related posts, duplicate posts, etc. and use this relational structure in conjunction with local information to collectively predict users’ expertise. We compare the statistics of the evaluation tests to the baseline results from related works to measure the performance of our approach compared to the non-relational methods. We see that using the relational structure of the data helps outperform baseline methods.
-
+{: style="text-align: justify;"} 
 
 - **[Data Programming: A New Paradigm For Unlabelled Data](/files/203-final-report.pdf){:target="_blank"}**: [CMPS203, Spring 18'] <br>
 This is a survey on the recent progress in the improvement of data labelling processes. I study the newly introduced “Data Pro- gramming”, a paradigm which deals with programmatic creation of datasets. Then, I look at “Snorkel”, a system that allows users to train models without hand labelling any data. The users can write labelling functions representing heuristics to label data, and can vary in coverages and accuracies. “Snorkel” denoises their outputs and combines them to provide probabilistic data labels. Then, I study “Babble Labble”, which is an extension built using Snorkel, that processes heuristics described in natural language to labelling functions and thereby used to label data. These works constitute an important foray in this space of data labelling, and is right on the horizon of the massive data wave currently under way.
-
+{: style="text-align: justify;"} 
 
 -	**[Effects of Social Influences on Culinary Preferences](/files/cmps-290-spring.pdf){:target="_blank"}**: [CMPS290C, Spring 17'] <br>
 Higgs et al., hypothesize that an individuals’ eating behaviour is strongly influenced by social context. In this work, we seek to model the influence of a friend network on the culinary choices of individuals. We predict a person’s favorite cuisine from social influences from their network and evaluate our model by comparing our predictions to the gold labels that are extracted from the text of the reviews. We use the data from the “Yelp Dataset Challenge" dataset.
+{: style="text-align: justify;"} 
 
 -	**[Ideology-Backed Stance Classification](/files/cmps-245-winter.pdf){:target="_blank"}**: [CMPS245, Winter 17'] <br>
 The determination of stance in two-sided discussions/debates in online debate forums is a new and interesting problem in opinion mining. We target the task of classifying stance in ideological debates on online debate forums,
 and this is a rather challenging problem due to the nature of debate setting and the language used. Previous work has introduced the notion of using ideology as an inter-post, extra-linguistic constraint which are implemented using Integer Linear Programming. In this work, we seek to improve an approach on jointly-modeling disagreement and stance in online debate forums by integrating ideology as a latent variable in the joint model. We show improvement of a few percentage points over the baselines set by prior works. Additionally, we have also created a new ideology corpus of around 1.5 million tweets by 645 official members of the U.S. Congress.
+{: style="text-align: justify;"} 
 
 -	**[Standoff: An Evolutionary Analysis](/files/standoff-evolutionary-analysis.pdf){:target="_blank"}**: [CMPS272, Winter 17'] [[code](https://bitbucket.org/dhawaljoh/standoff-gametheory-272){:target="_blank"}]<br>
 This work is an equilibrium analysis of Standoff, a stochastic game involving simultaneous move stages with state transitions. Players must decide their best response dependent upon their state, the states of the opposing players, and the states of players in the succeeding stage. In order to analyze Standoff, we constructed strategic form stage diagrams, bi-matrices for two- and three-player versions of Standoff, and determined a mixed strategy per stage of the game. To win, each player should make decisions in a manner that maximizes the probability of being the last man standing. A winning strategy is a complete action plan, which specifies a decision at each stage considering the state combination. Our analysis finds a symmetric equilibrium strategy at a given stage and uses evolutionary dynamics to ascertain the stability of our equilibrium.
+{: style="text-align: justify;"} 
 
 -	**[Detecting Competitors in a New Location for Yelp Businesses](/files/242-final-report.pdf){:target="_blank"}**: [CMPS242, Fall 16'] [[code](https://github.com/eriq-augustine/242-2016){:target="_blank"}] <br>
 Our project is focused around helping business owners find potential competitors if they choose to open a branch in a new location. Using this information the business owners can not only find potential competitors, but also get an idea of how well their business will be received in the new locality. We say that a "competitor" is any similar business, with the idea that a similar business caters to a similar clientele and is therefore a competitor. Therefore our task involves finding similar businesses in other regions. We do this by first clustering similar businesses. Once we have the clusters, to find similar businesses in a location, we look into the cluster to which a given restaurant belongs to, and then display restaurants in that cluster that are close to the location. We use the k-medoids algorithm to cluster the businesses as not all attributes are numeric in nature and we need a richer set of dissimilarity scores. We run experiments with various parameter settings, dissimilarity scores, and features and report the rand index on a "gold standard" data set.
+{: style="text-align: justify;"} 
 
 -	**Analysis of clinical notes of ICU patients using Topic Models**: [Work done at XRCI, IISc with <em><a class="tosu" href="https://sites.google.com/site/vaibhavrajan/" target="_blank">Dr. Vaibhav Rajan</a></em>] <br>
 Worked on predictive health-care using unstructured nursing notes by looking at temporal evolutions of topic proportions generated via Topic Modeling.
+{: style="text-align: justify;"} 
 
 -	**[Temporal Scoping of Relational Facts in a Knowledge Base](/files/openday2015.pdf){:target="_blank"}**: [Work done at SERC, IISc with <em><a class="tosu" href="http://www.talukdar.net/" target="_blank">Prof. Partha Talukdar</a></em>] <br>
 To identify if a relation existed between two entities in a sentence, we constructed a model consisting of n-grams which provided clues for the relation. These n-grams, along with features from Entity Linking were used to train a GBDT to identify relations. Stanford’s SUTime was used to extract temporal information present and then normalized. Triggers chosen manually from the language model were used to indicate the start or end of relationships. We devised an algorithm to update the start/end times iteratively as more temporal information was found through new sentences.
+{: style="text-align: justify;"} 
 
 -	**Automatic Driver Behaviour Profiling**: [Work done at CSE, IIT Kharagpur with <em><a class="tosu" href="http://www.facweb.iitkgp.ernet.in/~sudeshna/" target="_blank">Prof. Sudeshna Sarkar</a></em>] [[code](https://github.com/dhawaljoh/IIT-Kharagpur){:target="_blank"}] <br>
 Worked on profiling the driving patterns of various drivers using GPS data of trucks across India over 15 years using GPS dataset provided by MHRD. Some preliminary data munging and visualizations were done to understand the spread of data. Detection of hotspots(stoppage areas, resting places) using DBSCAN algorithm and road segmentation based on their speed profiles was also done. I also modified the "simplekml" module to plot the GPS points on Google Maps.
+{: style="text-align: justify;"} 
 
 -	**[Craigslist Post Classifier: Identify the Category](http://ltrc.iiit.ac.in/icon2015/icon2015_proceedings/PDF/04_rp.pdf){:target="_blank"}**: [[code](https://github.com/dhawaljoh/craigslist_category_classification){:target="_blank"}] <br>
 Used bag of words model, tf-idf and SVM to classify posts on Craigslist into sections based on the product description. The open dataset was available on HackerRank. **Accuracy**: 81%
 
 -	**Peptide Status Detection**: [Work done at MIT, Manipal with <em><a class="tosu" href="https://www.linkedin.com/in/smitha-nair-2073324a/?ppe=1" target="_blank">Prof. Smitha Nair</a></em>] [[code](https://github.com/dhawaljoh/PeptideStatusDetection){:target="_blank"}] <br>
 Work on detecting Fibrous regions in proteins using the UniProtKB/Swiss-Prot data. Used Support Vector Machines and Bee Colony Optimization for PCA.
+{: style="text-align: justify;"} 
 
 -	**Data Science London + Scikit-learn**: [[code](https://github.com/dhawaljoh/kaggle--data-science-london){:target="_blank"}] <br>
 Kaggle competition to explore sklearn.
+{: style="text-align: justify;"} 
