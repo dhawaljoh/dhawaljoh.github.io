@@ -13,11 +13,11 @@ permalink: /
 
 
 
-Hi! Welcome to my corner of the Internet! Feel free to get in touch, I love to chat!
+Hi, welcome to my corner of the Internet!
 
 
-I was born in Nagpur, India, but was moved down to Bangalore by my parents when I was two months old. I spent the first eighteen years of my life there, before heading west to Manipal where I attended the [<span style="color: red">Manipal Institute of Technology, Manipal</span>](https://manipal.edu/mit/department-faculty/department-list/computer-science-and-engineering.html){:target="_blank"} majoring in Computer Science. Thereafter, I spent a year at Xerox Research Center, India before moving out far west to [<span style="color: red">University of California, Santa Cruz</span>](https://www.soe.ucsc.edu/departments/computer-science-and-engineering){:target="_blank"} where I graduated with an MS in Computer Science.
+I was born in Nagpur, India, and was moved down to Bangalore by my parents when I was two months old. After spending eighteen years of my life there, I moved west to attend school at [<span style="color: red">Manipal Institute of Technology, Manipal</span>](https://manipal.edu/mit/department-faculty/department-list/computer-science-and-engineering.html){:target="_blank"}. Thereafter, I spent a year at Xerox Research Center, India before moving out far west to [<span style="color: red">University of California, Santa Cruz</span>](https://www.soe.ucsc.edu/departments/computer-science-and-engineering){:target="_blank"} where I graduated with an MS in Computer Science.
 {: style="text-align: justify;"} 
 
 
-More to come...
+I will be joining Amazon.com in San Luis Obispo, CA in June 2020.
