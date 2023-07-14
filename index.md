@@ -9,7 +9,7 @@ permalink: /
 	<script src="https://kit.fontawesome.com/d06797ceaa.js" crossorigin="anonymous"></script>
 </head>
 
-**Dhawal Joharapurkar** <br>  SDE I, Amazon.com <br>    Email: <a href="mailto: dhawal.joharapurkar@gmail.com">dhawal.joharapurkar@gmail.com</a><br> <a href="https://github.com/dhawaljoh" target="_blank"><i class="fab fa-github" href="#"></i></a> / <a href="https://www.linkedin.com/in/dhawaljoh/" target="_blank"><i class="fab fa-linkedin" href="#"></i></a> / <a href="https://www.facebook.com/dhawaljoh" target="_blank"><i class="fab fa-facebook" href="#"></i></a> / <a href="https://twitter.com/dhawaljoh" target="_blank"><i class="fab fa-twitter" href="#"></i></a> | ![Dhawal](/assets/images/me.jpeg){:height="400px" width="280px" style="float: right"}
+**Dhawal Joharapurkar** <br>  SDE I, Amazon.com <br>    Email: <a href="mailto: dhawal.joharapurkar@gmail.com">dhawal.joharapurkar@gmail.com</a><br> <a href="https://github.com/dhawaljoh" target="_blank"><i class="fab fa-github" href="#"></i></a> / <a href="https://www.linkedin.com/in/dhawaljoh/" target="_blank"><i class="fab fa-linkedin" href="#"></i></a> / <a href="https://www.facebook.com/dhawaljoh" target="_blank"><i class="fab fa-facebook" href="#"></i></a> / <a href="https://twitter.com/dhawaljoh" target="_blank"><i class="fab fa-twitter" href="#"></i></a> | ![Dhawal](/assets/images/me.jpeg){:height="320px" width="300px" style="float: right"}
 
 
 
